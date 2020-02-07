@@ -18,6 +18,7 @@ _TemplateFlow_ is a modular, version-controlled resource that allows researchers
     PosixPath('/home/oesteban/.cache/templateflow/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_T1w.nii.gz')
     ```
 
+![Branching](assets/poster-templateflow.png) 
 
 [1]: https://doi.org/10.1038/nrn756 "The problem of functional localization in the human brain."
 [2]: https://dx.doi.org/10.3389%2Ffninf.2017.00001 "Whole Brain Magnetic Resonance Image Atlases: A Systematic Review of Existing Atlases and Caveats for Use in Population Imaging"
