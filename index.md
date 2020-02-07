@@ -9,8 +9,8 @@ _TemplateFlow_ is a modular, version-controlled resource that allows researchers
 
 # Components
 
-  * **Repository of templates**: We use [DataLad][3] to maintain the templates under version control (see https://github.com/templateflow/templateflow)
-  * **Python client**: An easy to use query tool (please check its documentation at https://templateflow.github.io/python-client):
+  * **Repository of templates**: We use [DataLad][3] to maintain the templates under version control ([repository][4])
+  * **Python client**: An easy to use query tool ([link to documentation][5]):
 
     ```Python
     >>> from templateflow import api as tflow
@@ -22,3 +22,5 @@ _TemplateFlow_ is a modular, version-controlled resource that allows researchers
 [1]: https://doi.org/10.1038/nrn756 "The problem of functional localization in the human brain."
 [2]: https://dx.doi.org/10.3389%2Ffninf.2017.00001 "Whole Brain Magnetic Resonance Image Atlases: A Systematic Review of Existing Atlases and Caveats for Use in Population Imaging"
 [3]: https://datalad.org "DataLad"
+[4]: https://github.com/templateflow/templateflow "TemplateFlow repository"
+[5]: https://templateflow.github.io/python-client "TemplateFlow Python client documentation"
