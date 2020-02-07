@@ -1,5 +1,5 @@
 title: TemplateFlow
 description: A 4D standard space of neuroimaging standard spaces.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
