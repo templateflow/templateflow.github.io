@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Update Archive](https://github.com/templateflow/templateflow/workflows/Update%20Archive/badge.svg)
+
 Group inference and reporting of neuroimaging studies require that individual's features are spatially aligned into a common frame where their location can be called standard ([Brett et al., 2002][1]).
 To that end, a multiplicity of brain templates with anatomical annotations (i.e. atlases) have been published ([Dickie et al., 2017][2]).
 However, a centralized resource that allows programmatic access to templates is lacking.
