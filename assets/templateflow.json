@@ -207,11 +207,6 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_from-MNI152NLin6Asym_mode-image_xfm.h5"
       },
       {
-        "text": "tpl-MNI152NLin2009cAsym_from-MNIInfant_mode-image_xfm.mat",
-        "icon": "fas fa-route",
-        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_from-MNIInfant_mode-image_xfm.mat"
-      },
-      {
         "text": "tpl-MNI152NLin2009cAsym_from-OASISTRT20_mode-image_xfm.mat",
         "icon": "fas fa-route",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_from-OASISTRT20_mode-image_xfm.mat"
@@ -417,6 +412,11 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-WM_probseg.nii.gz"
       },
       {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_label-brain_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-brain_probseg.nii.gz"
+      },
+      {
         "text": "tpl-MNI152NLin2009cAsym_res-02_PD.nii.gz",
         "icon": "fas fa-brain",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_PD.nii.gz"
@@ -615,6 +615,93 @@
         "text": "tpl-MNI152NLin2009cAsym_res-02_label-WM_probseg.nii.gz",
         "icon": "fas fa-brain",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_label-WM_probseg.nii.gz"
+      }
+    ]
+  },
+  {
+    "text": "tpl-MNI152NLin2009cSym",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cSym/master/LICENSE"
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "curate_cerebra_labels.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cSym/master/scripts/curate_cerebra_labels.py"
+          },
+          {
+            "text": "sanitize.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cSym/master/scripts/sanitize.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cSym/master/template_description.json"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_atlas-CerebA_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cSym/master/tpl-MNI152NLin2009cSym_atlas-CerebA_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_res-1_PD.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym_res-1_PD.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_res-1_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym_res-1_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_res-1_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym_res-1_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_res-1_atlas-CerebrA_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym_res-1_atlas-CerebrA_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_res-1_desc-brain_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym_res-1_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_res-1_desc-eye_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym_res-1_desc-eye_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_res-1_label-CSF_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym_res-1_label-CSF_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_res-1_label-GM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym_res-1_label-GM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_res-1_label-WM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym_res-1_label-WM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cSym_res-iso4mm_desc-face_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym_res-iso4mm_desc-face_mask.nii.gz"
       }
     ]
   },
