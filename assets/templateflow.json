@@ -1,0 +1,2930 @@
+[
+  {
+    "text": "tpl-MNI152Lin",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152Lin/master/CHANGES"
+      },
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152Lin/master/LICENSE"
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "headmask.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152Lin/master/scripts/headmask.py"
+          },
+          {
+            "text": "normalize.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152Lin/master/scripts/normalize.py"
+          },
+          {
+            "text": "sanitize.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152Lin/master/scripts/sanitize.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152Lin/master/template_description.json"
+      },
+      {
+        "text": "tpl-MNI152Lin_res-01_PD.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-01_PD.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_res-01_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-01_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_res-01_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-01_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_res-01_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-01_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_res-01_desc-head_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-01_desc-head_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_res-02_PD.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-02_PD.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_res-02_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-02_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_res-02_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-02_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_res-02_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-02_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_res-02_desc-head_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-02_desc-head_mask.nii.gz"
+      }
+    ]
+  },
+  {
+    "text": "tpl-MNI152NLin2009cAsym",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/CHANGES"
+      },
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/LICENSE"
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "softbrainmask.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/scripts/softbrainmask.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/template_description.json"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_from-MNI152NLin6Asym_mode-image_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_from-MNI152NLin6Asym_mode-image_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_from-MNIInfant_mode-image_xfm.mat",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_from-MNIInfant_mode-image_xfm.mat"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_from-OASISTRT20_mode-image_xfm.mat",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_from-OASISTRT20_mode-image_xfm.mat"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_PD.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_PD.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_desc-BrainCerebellumExtraction_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-BrainCerebellumExtraction_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_desc-BrainCerebellumRegistration_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-BrainCerebellumRegistration_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-brain_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_desc-brain_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-brain_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_desc-carpet_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-carpet_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_desc-eye_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-eye_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_desc-face_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-face_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_desc-head_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-head_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_label-CSF_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-CSF_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_label-GM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-GM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_label-WM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-WM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_PD.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_PD.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_desc-DKT31_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-DKT31_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-brain_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_desc-carpet_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-carpet_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_desc-eye_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-eye_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_desc-fMRIPrep_boldref.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-fMRIPrep_boldref.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_desc-face_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-face_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_desc-head_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-head_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_label-CSF_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_label-CSF_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_label-GM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_label-GM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_label-WM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_label-WM_probseg.nii.gz"
+      }
+    ]
+  },
+  {
+    "text": "tpl-MNI152NLin6Asym",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "sanitize.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/scripts/sanitize.py"
+          },
+          {
+            "text": "schaefer.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/scripts/schaefer.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/template_description.json"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-HOCPAL_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-HOCPAL_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-HOCPA_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-HOCPA_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-HOSPA_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-HOSPA_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_desc-HippocampusDil8_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_desc-HippocampusDil8_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_desc-brain_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HCP_desc-dilBrain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HCP_desc-dilBrain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HCP_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HCP_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th0_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th0_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th25_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th25_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th50_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_desc-LR_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_desc-LR_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_desc-b0_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_desc-b0_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_desc-brain_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_desc-eyes_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_desc-eyes_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-03_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-03_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-04_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-04_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-04_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-04_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-04_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-04_desc-brain_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-04_desc-brain_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-04_desc-brain_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-04_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-04_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-05_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-05_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-05_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-05_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-05_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-05_desc-brain_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-05_desc-brain_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-05_desc-brain_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-05_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-05_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-06_atlas-HCP_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-06_atlas-HCP_dseg.nii.gz"
+      }
+    ]
+  },
+  {
+    "text": "tpl-MNI152NLin6Sym",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Sym/master/LICENSE"
+      },
+      {
+        "text": "README.md",
+        "icon": "fa fa-file",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Sym/master/README.md"
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "sanitize.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Sym/master/scripts/sanitize.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Sym/master/template_description.json"
+      },
+      {
+        "text": "tpl-MNI152NLin6Sym_res-01_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Sym/tpl-MNI152NLin6Sym_res-01_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Sym_res-01_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Sym/tpl-MNI152NLin6Sym_res-01_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Sym_res-01_desc-eye_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Sym/tpl-MNI152NLin6Sym_res-01_desc-eye_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Sym_res-01_desc-head_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Sym/tpl-MNI152NLin6Sym_res-01_desc-head_mask.nii.gz"
+      }
+    ]
+  },
+  {
+    "text": "tpl-MNIInfant",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIInfant/master/LICENSE"
+      },
+      {
+        "text": "cohort-1",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-1_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-1_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-1_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-1_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-1_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-1_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-1_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-1_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-10",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-10_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-10_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-10_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-10_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-10_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-10_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-10_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-10_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-11",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-11_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-11_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-11_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-11_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-11_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-11_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-11_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-11_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-2",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-2_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-2_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-2_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-2_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-2_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-2_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-2_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-2_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-3",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-3_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-3_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-3_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-3_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-3_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-3_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-3_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-3_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-4",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-4_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-4_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-4_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-4_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-4_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-4_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-4_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-4_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-5",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-5_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-5_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-5_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-5_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-5_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-5_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-5_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-5_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-6",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-6_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-6_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-6_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-6_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-6_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-6_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-6_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-6_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-7",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-7_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-7_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-7_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-7_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-7_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-7_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-7_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-7_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-8",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-8_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-8_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-8_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-8_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-8_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-8_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-8_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-8_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-9",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-9_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-9_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-9_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-9_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-9_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-9_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-9_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIInfant_cohort-9_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "sanitize.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIInfant/master/scripts/sanitize.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIInfant/master/template_description.json"
+      }
+    ]
+  },
+  {
+    "text": "tpl-MNIPediatricAsym",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIPediatricAsym/master/LICENSE"
+      },
+      {
+        "text": "cohort-1",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-1_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-1_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-1_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-1_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-1_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-1_label-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-2_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-2_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-2_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-2_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-2_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-1_res-2_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-2_label-WM_probseg.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-2",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-1_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-1_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-1_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-1_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-1_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-1_label-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-2_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-2_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-2_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-2_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-2_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-2_res-2_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-2_label-WM_probseg.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-3",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-1_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-1_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-1_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-1_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-1_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-1_label-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-2_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-2_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-2_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-2_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-2_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-3_res-2_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-2_label-WM_probseg.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-4",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-1_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-1_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-1_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-1_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-1_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-1_label-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-2_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-2_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-2_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-2_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-2_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-4_res-2_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-2_label-WM_probseg.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-5",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-1_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-1_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-1_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-1_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-1_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-1_label-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-2_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-2_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-2_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-2_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-2_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-5_res-2_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-2_label-WM_probseg.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-6",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-1_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-1_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-1_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-1_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-1_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-1_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-1_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-1_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-1_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-1_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-1_label-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-2_PD.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-2_PD.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-2_T2w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-2_T2w.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-2_desc-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-2_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-2_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-2_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-2_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-MNIPediatricAsym_cohort-6_res-2_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-2_label-WM_probseg.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "sanitize.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIPediatricAsym/master/scripts/sanitize.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIPediatricAsym/master/template_description.json"
+      }
+    ]
+  },
+  {
+    "text": "tpl-NKI",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-NKI/master/CHANGES"
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "fix_dtype.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-NKI/master/scripts/fix_dtype.py"
+          },
+          {
+            "text": "fix_ras.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-NKI/master/scripts/fix_ras.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-NKI/master/template_description.json"
+      },
+      {
+        "text": "template_sample.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-NKI/master/template_sample.tsv"
+      },
+      {
+        "text": "tpl-NKI_res-01_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_desc-6_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_desc-6_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_desc-6_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-NKI/master/tpl-NKI_res-01_desc-6_dseg.tsv"
+      },
+      {
+        "text": "tpl-NKI_res-01_desc-BrainCerebellumExtraction_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_desc-BrainCerebellumExtraction_mask.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_desc-BrainCerebellumRegistration_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_desc-BrainCerebellumRegistration_mask.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_desc-brain_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_desc-malf_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_desc-malf_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_desc-malf_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-NKI/master/tpl-NKI_res-01_desc-malf_dseg.tsv"
+      },
+      {
+        "text": "tpl-NKI_res-01_label-BS_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_label-BS_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_label-CBM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_label-CBM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_label-CGM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_label-CGM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_label-CSF_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_label-CSF_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_label-SCGM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_label-SCGM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_label-WM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_label-WM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_label-brainNoCerebellum_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_label-brainNoCerebellum_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-NKI_res-01_label-brain_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_label-brain_probseg.nii.gz"
+      }
+    ]
+  },
+  {
+    "text": "tpl-OASIS30ANTs",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-OASIS30ANTs/master/CHANGES"
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-OASIS30ANTs/master/template_description.json"
+      },
+      {
+        "text": "template_sample.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-OASIS30ANTs/master/template_sample.tsv"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_desc-4_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_desc-4_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_desc-4_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-OASIS30ANTs/master/tpl-OASIS30ANTs_res-01_desc-4_dseg.tsv"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_desc-6_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_desc-6_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_desc-6_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-OASIS30ANTs/master/tpl-OASIS30ANTs_res-01_desc-6_dseg.tsv"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_desc-BrainCerebellumExtraction_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_desc-BrainCerebellumExtraction_mask.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_desc-BrainCerebellumRegistration_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_desc-BrainCerebellumRegistration_mask.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_desc-brain_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_label-BS_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_label-BS_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_label-CBM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_label-CBM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_label-CGM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_label-CGM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_label-CSF_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_label-CSF_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_label-SCGM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_label-SCGM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_label-WM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_label-WM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-OASIS30ANTs_res-01_label-brain_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_label-brain_probseg.nii.gz"
+      }
+    ]
+  },
+  {
+    "text": "tpl-PNC",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-PNC/master/CHANGES"
+      },
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-PNC/master/LICENSE"
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-PNC/master/template_description.json"
+      },
+      {
+        "text": "tpl-PNC_res-01_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-01_desc-BrainCerebellumExtraction_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_desc-BrainCerebellumExtraction_mask.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-01_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_desc-brain_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-01_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-01_label-BS_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_label-BS_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-01_label-CBM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_label-CBM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-01_label-CGM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_label-CGM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-01_label-CSF_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_label-CSF_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-01_label-SCGM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_label-SCGM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-01_label-WM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_label-WM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-01_label-brain_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_label-brain_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-PNC_res-02_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-02_desc-brain_T1w.nii.gz"
+      }
+    ]
+  },
+  {
+    "text": "tpl-WHS",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-WHS/master/LICENSE"
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "cerebrum_dseg.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-WHS/master/scripts/cerebrum_dseg.py"
+          },
+          {
+            "text": "sanitize.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-WHS/master/scripts/sanitize.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-WHS/master/template_description.json"
+      },
+      {
+        "text": "tpl-WHS_res-1_T2star.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_T2star.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-1_atlas-v3_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_atlas-v3_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-1_atlas-v3_desc-cerebrum_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_atlas-v3_desc-cerebrum_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-1_atlas-v3_desc-cerebrum_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_atlas-v3_desc-cerebrum_mask.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-1_atlas-v3_desc-origBrain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_atlas-v3_desc-origBrain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-1_atlas-v3_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_atlas-v3_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-1_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-2_T2star.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_T2star.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-2_atlas-v3_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_atlas-v3_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-2_atlas-v3_desc-origBrain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_atlas-v3_desc-origBrain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-2_atlas-v3_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_atlas-v3_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-2_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_desc-brain_mask.nii.gz"
+      }
+    ]
+  },
+  {
+    "text": "tpl-fsLR",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsLR/master/CHANGES"
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "sanitize.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-fsLR/master/scripts/sanitize.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsLR/master/template_description.json"
+      },
+      {
+        "text": "tpl-fsLR_hemi-L_den-164k_desc-nomedialwall_dparc.label.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-L_den-164k_desc-nomedialwall_dparc.label.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-L_den-164k_desc-vaavg_midthickness.shape.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-L_den-164k_desc-vaavg_midthickness.shape.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-L_den-164k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-L_den-164k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-L_den-32k_desc-nomedialwall_dparc.label.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-L_den-32k_desc-nomedialwall_dparc.label.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-L_den-32k_desc-vaavg_midthickness.shape.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-L_den-32k_desc-vaavg_midthickness.shape.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-L_den-32k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-L_den-32k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-L_den-59k_desc-nomedialwall_dparc.label.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-L_den-59k_desc-nomedialwall_dparc.label.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-L_den-59k_desc-vaavg_midthickness.shape.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-L_den-59k_desc-vaavg_midthickness.shape.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-L_den-59k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-L_den-59k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-R_den-164k_desc-nomedialwall_dparc.label.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-R_den-164k_desc-nomedialwall_dparc.label.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-R_den-164k_desc-vaavg_midthickness.shape.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-R_den-164k_desc-vaavg_midthickness.shape.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-R_den-164k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-R_den-164k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-R_den-32k_desc-nomedialwall_dparc.label.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-R_den-32k_desc-nomedialwall_dparc.label.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-R_den-32k_desc-vaavg_midthickness.shape.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-R_den-32k_desc-vaavg_midthickness.shape.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-R_den-32k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-R_den-32k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-R_den-59k_desc-nomedialwall_dparc.label.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-R_den-59k_desc-nomedialwall_dparc.label.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-R_den-59k_desc-vaavg_midthickness.shape.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-R_den-59k_desc-vaavg_midthickness.shape.gii"
+      },
+      {
+        "text": "tpl-fsLR_hemi-R_den-59k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-R_den-59k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_space-fsaverage_hemi-L_den-164k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_space-fsaverage_hemi-L_den-164k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_space-fsaverage_hemi-L_den-32k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_space-fsaverage_hemi-L_den-32k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_space-fsaverage_hemi-L_den-59k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_space-fsaverage_hemi-L_den-59k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_space-fsaverage_hemi-R_den-164k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_space-fsaverage_hemi-R_den-164k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_space-fsaverage_hemi-R_den-32k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_space-fsaverage_hemi-R_den-32k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsLR_space-fsaverage_hemi-R_den-59k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_space-fsaverage_hemi-R_den-59k_sphere.surf.gii"
+      }
+    ]
+  },
+  {
+    "text": "tpl-fsaverage",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/CHANGES"
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/template_description.json"
+      },
+      {
+        "text": "tpl-fsaverage_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-10k_pial.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-10k_pial.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-10k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-10k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-10k_white.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-10k_white.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-164k_desc-std_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_desc-std_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-164k_desc-vaavg_midthickness.shape.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_desc-vaavg_midthickness.shape.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-164k_pial.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_pial.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-164k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-164k_white.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_white.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-3k_pial.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-3k_pial.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-3k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-3k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-3k_white.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-3k_white.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-41k_pial.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-41k_pial.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-41k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-41k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-L_den-41k_white.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-41k_white.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-10k_pial.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-10k_pial.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-10k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-10k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-10k_white.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-10k_white.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-164k_desc-std_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_desc-std_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-164k_desc-vaavg_midthickness.shape.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_desc-vaavg_midthickness.shape.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-164k_pial.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_pial.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-164k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-164k_white.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_white.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-3k_pial.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-3k_pial.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-3k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-3k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-3k_white.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-3k_white.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-41k_pial.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-41k_pial.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-41k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-41k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-41k_white.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-41k_white.surf.gii"
+      },
+      {
+        "text": "tpl-fsaverage_res-01_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_res-01_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-fsaverage_res-01_den-41k_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_res-01_den-41k_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-fsaverage_res-01_desc-brain_mask.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_res-01_desc-brain_mask.nii.gz"
+      }
+    ]
+  }
+]
