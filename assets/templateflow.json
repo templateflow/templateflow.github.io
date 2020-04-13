@@ -56,12 +56,12 @@
       },
       {
         "text": "tpl-MNI152Lin_res-01_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-01_desc-brain_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152Lin_res-01_desc-head_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-01_desc-head_mask.nii.gz"
       },
       {
@@ -81,12 +81,12 @@
       },
       {
         "text": "tpl-MNI152Lin_res-02_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-02_desc-brain_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152Lin_res-02_desc-head_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-02_desc-head_mask.nii.gz"
       }
     ]
@@ -233,137 +233,137 @@
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPAL_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOCPA_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_desc-BrainCerebellumExtraction_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-BrainCerebellumExtraction_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_desc-BrainCerebellumRegistration_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-BrainCerebellumRegistration_mask.nii.gz"
       },
       {
@@ -373,7 +373,7 @@
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-brain_mask.nii.gz"
       },
       {
@@ -388,17 +388,17 @@
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_desc-eye_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-eye_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_desc-face_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-face_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_desc-head_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-head_mask.nii.gz"
       },
       {
@@ -433,132 +433,132 @@
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPAL_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOCPA_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_probseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-HOSPA_probseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz"
       },
       {
@@ -573,7 +573,7 @@
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-brain_mask.nii.gz"
       },
       {
@@ -583,7 +583,7 @@
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_desc-eye_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-eye_mask.nii.gz"
       },
       {
@@ -593,12 +593,12 @@
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_desc-face_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-face_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-02_desc-head_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_desc-head_mask.nii.gz"
       },
       {
@@ -745,147 +745,147 @@
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_probseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_probseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_probseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPA_probseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_probseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOSPA_probseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_desc-HippocampusDil8_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_desc-HippocampusDil8_mask.nii.gz"
       },
       {
@@ -895,7 +895,7 @@
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_desc-brain_mask.nii.gz"
       },
       {
@@ -905,152 +905,152 @@
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HCP_desc-dilBrain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HCP_desc-dilBrain_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HCP_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HCP_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_probseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPAL_probseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_probseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOCPA_probseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th0_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th0_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th25_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th25_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th50_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_desc-th50_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_probseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-HOSPA_probseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-1000Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-100Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-100Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-200Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-200Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-300Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-300Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-400Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-400Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-500Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-500Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-600Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-600Parcels7Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-800Parcels17Networks_dseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.nii.gz"
       },
       {
@@ -1060,7 +1060,7 @@
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_desc-b0_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_desc-b0_mask.nii.gz"
       },
       {
@@ -1070,12 +1070,12 @@
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_desc-brain_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_desc-eyes_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_desc-eyes_mask.nii.gz"
       },
       {
@@ -1105,7 +1105,7 @@
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-04_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-04_desc-brain_mask.nii.gz"
       },
       {
@@ -1130,12 +1130,12 @@
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-05_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-05_desc-brain_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-06_atlas-HCP_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-06_atlas-HCP_dseg.nii.gz"
       }
     ]
@@ -1177,17 +1177,17 @@
       },
       {
         "text": "tpl-MNI152NLin6Sym_res-01_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Sym/tpl-MNI152NLin6Sym_res-01_desc-brain_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Sym_res-01_desc-eye_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Sym/tpl-MNI152NLin6Sym_res-01_desc-eye_mask.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Sym_res-01_desc-head_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Sym/tpl-MNI152NLin6Sym_res-01_desc-head_mask.nii.gz"
       }
     ]
@@ -1222,7 +1222,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-1_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1242,7 +1242,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-1_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1268,7 +1268,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-10_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1288,7 +1288,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-10_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1314,7 +1314,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-11_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1334,7 +1334,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-11_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1360,7 +1360,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-2_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1380,7 +1380,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-2_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1406,7 +1406,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-3_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1426,7 +1426,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-3_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1452,7 +1452,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-4_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1472,7 +1472,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-4_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1498,7 +1498,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-5_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1518,7 +1518,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-5_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1544,7 +1544,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-6_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1564,7 +1564,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-6_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1590,7 +1590,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-7_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1610,7 +1610,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-7_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1636,7 +1636,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-8_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1656,7 +1656,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-8_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1682,7 +1682,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-9_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1702,7 +1702,7 @@
           },
           {
             "text": "tpl-MNIInfant_cohort-9_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-2_desc-brain_mask.nii.gz"
           }
         ]
@@ -1755,7 +1755,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-1_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1790,7 +1790,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-1_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-1/tpl-MNIPediatricAsym_cohort-1_res-2_desc-brain_mask.nii.gz"
           },
           {
@@ -1831,7 +1831,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-2_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1866,7 +1866,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-2_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-2/tpl-MNIPediatricAsym_cohort-2_res-2_desc-brain_mask.nii.gz"
           },
           {
@@ -1907,7 +1907,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-3_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -1942,7 +1942,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-3_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-3/tpl-MNIPediatricAsym_cohort-3_res-2_desc-brain_mask.nii.gz"
           },
           {
@@ -1983,7 +1983,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-4_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -2018,7 +2018,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-4_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-4/tpl-MNIPediatricAsym_cohort-4_res-2_desc-brain_mask.nii.gz"
           },
           {
@@ -2059,7 +2059,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-5_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -2094,7 +2094,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-5_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-5/tpl-MNIPediatricAsym_cohort-5_res-2_desc-brain_mask.nii.gz"
           },
           {
@@ -2135,7 +2135,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-6_res-1_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-1_desc-brain_mask.nii.gz"
           },
           {
@@ -2170,7 +2170,7 @@
           },
           {
             "text": "tpl-MNIPediatricAsym_cohort-6_res-2_desc-brain_mask.nii.gz",
-            "icon": "fas fa-brain",
+            "icon": "fas fa-crop-alt",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIPediatricAsym/cohort-6/tpl-MNIPediatricAsym_cohort-6_res-2_desc-brain_mask.nii.gz"
           },
           {
@@ -2260,12 +2260,12 @@
       },
       {
         "text": "tpl-NKI_res-01_desc-BrainCerebellumExtraction_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_desc-BrainCerebellumExtraction_mask.nii.gz"
       },
       {
         "text": "tpl-NKI_res-01_desc-BrainCerebellumRegistration_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_desc-BrainCerebellumRegistration_mask.nii.gz"
       },
       {
@@ -2275,7 +2275,7 @@
       },
       {
         "text": "tpl-NKI_res-01_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-NKI/tpl-NKI_res-01_desc-brain_mask.nii.gz"
       },
       {
@@ -2376,12 +2376,12 @@
       },
       {
         "text": "tpl-OASIS30ANTs_res-01_desc-BrainCerebellumExtraction_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_desc-BrainCerebellumExtraction_mask.nii.gz"
       },
       {
         "text": "tpl-OASIS30ANTs_res-01_desc-BrainCerebellumRegistration_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_desc-BrainCerebellumRegistration_mask.nii.gz"
       },
       {
@@ -2391,7 +2391,7 @@
       },
       {
         "text": "tpl-OASIS30ANTs_res-01_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-OASIS30ANTs/tpl-OASIS30ANTs_res-01_desc-brain_mask.nii.gz"
       },
       {
@@ -2457,7 +2457,7 @@
       },
       {
         "text": "tpl-PNC_res-01_desc-BrainCerebellumExtraction_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_desc-BrainCerebellumExtraction_mask.nii.gz"
       },
       {
@@ -2467,7 +2467,7 @@
       },
       {
         "text": "tpl-PNC_res-01_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-PNC/tpl-PNC_res-01_desc-brain_mask.nii.gz"
       },
       {
@@ -2549,32 +2549,32 @@
       },
       {
         "text": "tpl-WHS_res-1_atlas-v3_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_atlas-v3_desc-brain_mask.nii.gz"
       },
       {
         "text": "tpl-WHS_res-1_atlas-v3_desc-cerebrum_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_atlas-v3_desc-cerebrum_dseg.nii.gz"
       },
       {
         "text": "tpl-WHS_res-1_atlas-v3_desc-cerebrum_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_atlas-v3_desc-cerebrum_mask.nii.gz"
       },
       {
         "text": "tpl-WHS_res-1_atlas-v3_desc-origBrain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_atlas-v3_desc-origBrain_mask.nii.gz"
       },
       {
         "text": "tpl-WHS_res-1_atlas-v3_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_atlas-v3_dseg.nii.gz"
       },
       {
         "text": "tpl-WHS_res-1_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-1_desc-brain_mask.nii.gz"
       },
       {
@@ -2584,22 +2584,22 @@
       },
       {
         "text": "tpl-WHS_res-2_atlas-v3_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_atlas-v3_desc-brain_mask.nii.gz"
       },
       {
         "text": "tpl-WHS_res-2_atlas-v3_desc-origBrain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_atlas-v3_desc-origBrain_mask.nii.gz"
       },
       {
         "text": "tpl-WHS_res-2_atlas-v3_dseg.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_atlas-v3_dseg.nii.gz"
       },
       {
         "text": "tpl-WHS_res-2_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_desc-brain_mask.nii.gz"
       }
     ]
@@ -2922,7 +2922,7 @@
       },
       {
         "text": "tpl-fsaverage_res-01_desc-brain_mask.nii.gz",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_res-01_desc-brain_mask.nii.gz"
       }
     ]
