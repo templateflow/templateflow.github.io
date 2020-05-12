@@ -2685,9 +2685,19 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_atlas-v3_dseg.nii.gz"
       },
       {
+        "text": "tpl-WHS_res-2_desc-BrainCerebellumExtraction_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_desc-BrainCerebellumExtraction_mask.nii.gz"
+      },
+      {
         "text": "tpl-WHS_res-2_desc-brain_mask.nii.gz",
         "icon": "fas fa-crop-alt",
         "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-WHS_res-2_desc-brain_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-WHS/tpl-WHS_res-2_desc-brain_probseg.nii.gz"
       }
     ]
   },
