@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <meta content="A standardized archive and client of neuroimaging templates" name="description"/>
+  <link href="https://www.templateflow.org/usage/client/" rel="canonical"/>
+  <meta content="The NiPreps developers" name="author"/>
+  <link href="../../assets/images/favicon.png" rel="shortcut icon"/>
+  <meta content="mkdocs-1.1.2, mkdocs-material-5.2.0" name="generator"/>
+  <title>
+   Python Client - TemplateFlow
+  </title>
+  <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" rel="stylesheet"/>
+  <link href="../../css/bstreeview.min.css" rel="stylesheet"/>
+  <link href="../../assets/stylesheets/main.18ac144a.min.css" rel="stylesheet"/>
+  <script crossorigin="anonymous" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" src="https://code.jquery.com/jquery-3.4.1.min.js">
+  </script>
+  <!-- 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
+  <!-- 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> -->
+  <script crossorigin="anonymous" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js">
+  </script>
+  <script crossorigin="anonymous" src="https://kit.fontawesome.com/7e31cfd31d.js">
+  </script>
+  <script src="../../js/bstreeview.min.js">
+  </script>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&amp;display=fallback" rel="stylesheet"/>
+  <style>
+   body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}
+  </style>
+ </head>
+ <body dir="ltr">
+  <input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+  <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+  <label class="md-overlay" for="__drawer">
+  </label>
+  <div data-md-component="skip">
+   <a class="md-skip" href="#about-the-python-client">
+    Skip to content
+   </a>
+  </div>
+  <div data-md-component="announce">
+  </div>
+  <header class="md-header" data-md-component="header">
+   <nav aria-label="Header" class="md-header-nav md-grid">
+    <a aria-label="TemplateFlow" class="md-header-nav__button md-logo" href="https://www.templateflow.org" title="TemplateFlow">
+     <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z">
+      </path>
+     </svg>
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+     <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z">
+      </path>
+     </svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+     <div class="md-header-nav__ellipsis">
+      <span class="md-header-nav__topic md-ellipsis">
+       TemplateFlow
+      </span>
+      <span class="md-header-nav__topic md-ellipsis">
+       Python Client
+      </span>
+     </div>
+    </div>
+    <div class="md-header-nav__source">
+     <a class="md-source" href="https://github.com/templateflow/templateflow/" title="Go to repository">
+      <div class="md-source__icon md-icon">
+       <svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
+        <path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z">
+        </path>
+       </svg>
+      </div>
+      <div class="md-source__repository">
+       templateflow/templateflow
+      </div>
+     </a>
+    </div>
+   </nav>
+  </header>
+  <div class="md-container" data-md-component="container">
+   <nav aria-label="Tabs" class="md-tabs md-tabs--active" data-md-component="tabs">
+    <div class="md-tabs__inner md-grid">
+     <ul class="md-tabs__list">
+      <li class="md-tabs__item">
+       <a class="md-tabs__link" href="../..">
+        Home
+       </a>
+      </li>
+      <li class="md-tabs__item">
+       <a class="md-tabs__link md-tabs__link--active" href="../archive/">
+        Usage
+       </a>
+      </li>
+      <li class="md-tabs__item">
+       <a class="md-tabs__link" href="../../contributing/guidelines/">
+        Contributing
+       </a>
+      </li>
+     </ul>
+    </div>
+   </nav>
+   <main class="md-main" data-md-component="main">
+    <div class="md-main__inner md-grid">
+     <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+      <div class="md-sidebar__scrollwrap">
+       <div class="md-sidebar__inner">
+        <nav aria-label="Navigation" class="md-nav md-nav--primary" data-md-level="0">
+         <label class="md-nav__title" for="__drawer">
+          <a aria-label="TemplateFlow" class="md-nav__button md-logo" href="https://www.templateflow.org" title="TemplateFlow">
+           <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z">
+            </path>
+           </svg>
+          </a>
+          TemplateFlow
+         </label>
+         <div class="md-nav__source">
+          <a class="md-source" href="https://github.com/templateflow/templateflow/" title="Go to repository">
+           <div class="md-source__icon md-icon">
+            <svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
+             <path d="M439.55 236.05L244 40.45a28.87 28.87 0 00-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 01-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 000 40.81l195.61 195.6a28.86 28.86 0 0040.8 0l194.69-194.69a28.86 28.86 0 000-40.81z">
+             </path>
+            </svg>
+           </div>
+           <div class="md-source__repository">
+            templateflow/templateflow
+           </div>
+          </a>
+         </div>
+         <ul class="md-nav__list" data-md-scrollfix="">
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="../.." title="Home">
+            Home
+           </a>
+          </li>
+          <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+           <input checked="" class="md-nav__toggle md-toggle" data-md-toggle="nav-2" id="nav-2" type="checkbox"/>
+           <label class="md-nav__link" for="nav-2">
+            Usage
+            <span class="md-nav__icon md-icon">
+             <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z">
+              </path>
+             </svg>
+            </span>
+           </label>
+           <nav aria-label="Usage" class="md-nav" data-md-level="1">
+            <label class="md-nav__title" for="nav-2">
+             <span class="md-nav__icon md-icon">
+              <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+               <path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z">
+               </path>
+              </svg>
+             </span>
+             Usage
+            </label>
+            <ul class="md-nav__list" data-md-scrollfix="">
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../archive/" title="TemplateFlow Archive">
+               TemplateFlow Archive
+              </a>
+             </li>
+             <li class="md-nav__item md-nav__item--active">
+              <input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+              <label class="md-nav__link md-nav__link--active" for="__toc">
+               Python Client
+               <span class="md-nav__icon md-icon">
+                <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                 <path d="M3 9h14V7H3v2m0 4h14v-2H3v2m0 4h14v-2H3v2m16 0h2v-2h-2v2m0-10v2h2V7h-2m0 6h2v-2h-2v2z">
+                 </path>
+                </svg>
+               </span>
+              </label>
+              <a class="md-nav__link md-nav__link--active" href="./" title="Python Client">
+               Python Client
+              </a>
+              <nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+               <label class="md-nav__title" for="__toc">
+                <span class="md-nav__icon md-icon">
+                 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z">
+                  </path>
+                 </svg>
+                </span>
+                Table of contents
+               </label>
+               <ul class="md-nav__list" data-md-scrollfix="">
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="#about-the-python-client">
+                  About the Python client
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="#lazy-loading-of-templates">
+                  Lazy loading of templates
+                 </a>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="#installation">
+                  Installation
+                 </a>
+                 <nav aria-label="Installation" class="md-nav">
+                  <ul class="md-nav__list">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="#before-you-start">
+                     Before you start
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="#mode-of-operation">
+                     Mode of operation
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="#installing-the-python-package-with-pip">
+                     Installing the Python package with Pip
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="#checking-the-installation">
+                     Checking the installation
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="#faq">
+                  FAQ
+                 </a>
+                 <nav aria-label="FAQ" class="md-nav">
+                  <ul class="md-nav__list">
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="#custom-study-population-specific-templates">
+                     Custom (study / population specific) templates
+                    </a>
+                   </li>
+                   <li class="md-nav__item">
+                    <a class="md-nav__link" href="#why-am-i-getting-zero-sized-nifti-files">
+                     Why am I getting zero-sized NIfTI files?
+                    </a>
+                   </li>
+                  </ul>
+                 </nav>
+                </li>
+                <li class="md-nav__item">
+                 <a class="md-nav__link" href="#documentation-for-developers">
+                  Documentation for developers
+                 </a>
+                </li>
+               </ul>
+              </nav>
+             </li>
+            </ul>
+           </nav>
+          </li>
+          <li class="md-nav__item md-nav__item--nested">
+           <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" id="nav-3" type="checkbox"/>
+           <label class="md-nav__link" for="nav-3">
+            Contributing
+            <span class="md-nav__icon md-icon">
+             <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path d="M8.59 16.58L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.42z">
+              </path>
+             </svg>
+            </span>
+           </label>
+           <nav aria-label="Contributing" class="md-nav" data-md-level="1">
+            <label class="md-nav__title" for="nav-3">
+             <span class="md-nav__icon md-icon">
+              <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+               <path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z">
+               </path>
+              </svg>
+             </span>
+             Contributing
+            </label>
+            <ul class="md-nav__list" data-md-scrollfix="">
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../contributing/guidelines/" title="Guidelines">
+               Guidelines
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../contributing/naming/" title="Naming Conventions">
+               Naming Conventions
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../../contributing/submission/" title="Submitting a new template">
+               Submitting a new template
+              </a>
+             </li>
+            </ul>
+           </nav>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+     <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+      <div class="md-sidebar__scrollwrap">
+       <div class="md-sidebar__inner">
+        <nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+         <label class="md-nav__title" for="__toc">
+          <span class="md-nav__icon md-icon">
+           <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z">
+            </path>
+           </svg>
+          </span>
+          Table of contents
+         </label>
+         <ul class="md-nav__list" data-md-scrollfix="">
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="#about-the-python-client">
+            About the Python client
+           </a>
+          </li>
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="#lazy-loading-of-templates">
+            Lazy loading of templates
+           </a>
+          </li>
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="#installation">
+            Installation
+           </a>
+           <nav aria-label="Installation" class="md-nav">
+            <ul class="md-nav__list">
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#before-you-start">
+               Before you start
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#mode-of-operation">
+               Mode of operation
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#installing-the-python-package-with-pip">
+               Installing the Python package with Pip
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#checking-the-installation">
+               Checking the installation
+              </a>
+             </li>
+            </ul>
+           </nav>
+          </li>
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="#faq">
+            FAQ
+           </a>
+           <nav aria-label="FAQ" class="md-nav">
+            <ul class="md-nav__list">
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#custom-study-population-specific-templates">
+               Custom (study / population specific) templates
+              </a>
+             </li>
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="#why-am-i-getting-zero-sized-nifti-files">
+               Why am I getting zero-sized NIfTI files?
+              </a>
+             </li>
+            </ul>
+           </nav>
+          </li>
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="#documentation-for-developers">
+            Documentation for developers
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+     <div class="md-content">
+      <article class="md-content__inner md-typeset">
+       <a class="md-content__button md-icon" href="https://github.com/templateflow/templateflow/edit/master/docs/usage/client.md" title="Edit this page">
+        <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+         <path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z">
+         </path>
+        </svg>
+       </a>
+       <h1>
+        Python Client
+       </h1>
+       <h2 id="about-the-python-client">
+        About the Python client
+        <a class="headerlink" href="#about-the-python-client" title="Permanent link">
+         ¶
+        </a>
+       </h2>
+       <p>
+        The Python client provides an easy to use tool to integrate the TemplateFlow Archive into Python code and notebooks.
+The Python client uses PyBIDS to index and query the TemplateFlow Archive.
+A practical example of how this operates follows:
+       </p>
+       <div class="codehilite">
+        <pre><span></span><code><span class="o">&gt;&gt;&gt;</span> <span class="kn">from</span> <span class="nn">templateflow</span> <span class="kn">import</span> <span class="n">api</span> <span class="k">as</span> <span class="n">tflow</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">tflow</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">'MNI152NLin6Asym'</span><span class="p">,</span> <span class="n">desc</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span> <span class="n">resolution</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span>
+<span class="o">...</span>           <span class="n">suffix</span><span class="o">=</span><span class="s1">'T1w'</span><span class="p">,</span> <span class="n">extension</span><span class="o">=</span><span class="s1">'nii.gz'</span><span class="p">)</span>
+<span class="n">PosixPath</span><span class="p">(</span><span class="s1">'/templateflow_home/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_T1w.nii.gz'</span><span class="p">)</span>
+</code></pre>
+       </div>
+       <h2 id="lazy-loading-of-templates">
+        Lazy loading of templates
+        <a class="headerlink" href="#lazy-loading-of-templates" title="Permanent link">
+         ¶
+        </a>
+       </h2>
+       <p>
+        The client only pulls the template data the first time those are requested.
+The first time we run the above commands in python, we will see how the client connects
+to the archive and pulls down a copy.
+The second time the command is executed, the local copy is found and retrieved without
+further Internet access.
+       </p>
+       <div class="admonition caution">
+        <p class="admonition-title">
+         Caution
+        </p>
+        <p>
+         In computing environments isolated from the Internet (a common case on academic
+high-performance computing), please fetch all the templates you will need from
+the node where you can access the Internet during installation.
+        </p>
+       </div>
+       <div class="admonition tip">
+        <p class="admonition-title">
+         <em>
+          TemplateFlow
+         </em>
+         and Singularity Containers
+        </p>
+        <p>
+         Singularity containers are a special case of isolated environment.
+These containers are usually executed without privileged permissions and on those
+settings, the default home folder (see below) will be non-writable.
+Please check
+         <a href="https://fmriprep.readthedocs.io/en/stable/singularity.html#templateflow-and-singularity" title="Singularity">
+          <em>
+           fMRIPrep
+          </em>
+          's documentation
+         </a>
+         for further information
+on how to use
+         <em>
+          TemplateFlow
+         </em>
+         within Singularity.
+        </p>
+       </div>
+       <h2 id="installation">
+        Installation
+        <a class="headerlink" href="#installation" title="Permanent link">
+         ¶
+        </a>
+       </h2>
+       <h3 id="before-you-start">
+        Before you start
+        <a class="headerlink" href="#before-you-start" title="Permanent link">
+         ¶
+        </a>
+       </h3>
+       <p>
+        By default, the local cache of the archive is stored under
+        <code>
+         $HOME/.cache/templateflow
+        </code>
+        .
+If you need to change the location of the local copy, make sure you set the
+        <code>
+         TEMPLATEFLOW_HOME
+        </code>
+        environment variable:
+       </p>
+       <div class="codehilite">
+        <pre><span></span><code><span class="nb">export</span> <span class="nv">TEMPLATEFLOW_HOME</span><span class="o">=</span>/var/local/templateflow
+</code></pre>
+       </div>
+       <p>
+        Please make sure you have read and write permissions on the folder you designate as
+        <em>
+         home
+        </em>
+        .
+       </p>
+       <h3 id="mode-of-operation">
+        Mode of operation
+        <a class="headerlink" href="#mode-of-operation" title="Permanent link">
+         ¶
+        </a>
+       </h3>
+       <p>
+        The client can operate directly with
+        <a href="https://datalad.org" title="DataLad">
+         DataLad
+        </a>
+        or just download templates from a
+mirror of the archive stored on a public S3 bucket.
+Using the latter option rules out administering the local copy of the archive with DataLad.
+By default, the environment variable
+        <code>
+         TEMPLATEFLOW_USE_DATALAD
+        </code>
+        will be set to
+        <code>
+         off
+        </code>
+        .
+In other words, the default mode of operation is direct download.
+To enable the DataLad-base operation, make sure you set the environment variable:
+       </p>
+       <div class="codehilite">
+        <pre><span></span><code><span class="nb">export</span> <span class="nv">TEMPLATEFLOW_USE_DATALAD</span><span class="o">=</span>on
+</code></pre>
+       </div>
+       <p>
+        Valid values for this environment variable to enable DataLad are
+        <code>
+         1
+        </code>
+        ,
+        <code>
+         y
+        </code>
+        ,
+        <code>
+         on
+        </code>
+        ,
+        <code>
+         yes
+        </code>
+        ,
+        <code>
+         true
+        </code>
+        .
+       </p>
+       <h3 id="installing-the-python-package-with-pip">
+        Installing the Python package with Pip
+        <a class="headerlink" href="#installing-the-python-package-with-pip" title="Permanent link">
+         ¶
+        </a>
+       </h3>
+       <p>
+        The TemplateFlow Client only works with Python 3.6 or greater.
+       </p>
+       <div class="codehilite">
+        <pre><span></span><code>$ python3 -m pip install templateflow
+</code></pre>
+       </div>
+       <h3 id="checking-the-installation">
+        Checking the installation
+        <a class="headerlink" href="#checking-the-installation" title="Permanent link">
+         ¶
+        </a>
+       </h3>
+       <div class="codehilite">
+        <pre><span></span><code>$ python -c <span class="s2">"import templateflow as tf; print(tf.__version__)"</span>
+<span class="m">0</span>.6.0
+</code></pre>
+       </div>
+       <h2 id="faq">
+        FAQ
+        <a class="headerlink" href="#faq" title="Permanent link">
+         ¶
+        </a>
+       </h2>
+       <h3 id="custom-study-population-specific-templates">
+        Custom (study / population specific) templates
+        <a class="headerlink" href="#custom-study-population-specific-templates" title="Permanent link">
+         ¶
+        </a>
+       </h3>
+       <p>
+        As
+        <a href="https://github.com/poldracklab/smriprep/issues/8">
+         Chris noted in this fundamental thread
+        </a>
+        :
+       </p>
+       <blockquote>
+        <p>
+         Custom (volume and surface) templates derived from a particular dataset have been shown to improve overlap between participants. It is also the recommended way to deal with smaller head sizes in developmental populations. Both ANTs and FreeSurfer support building such templates.
+        </p>
+       </blockquote>
+       <p>
+        It is possible to integrate custom templates into TemplateFlow in two steps:
+       </p>
+       <ol>
+        <li>
+         Organize your
+         <a href="../archive/#naming-conventions">
+          template accordingly
+         </a>
+         .
+        </li>
+        <li>
+         Copy the custom template tree into the
+         <code>
+          $TEMPLATEFLOW_HOME
+         </code>
+         directory.
+        </li>
+       </ol>
+       <p>
+        Please make sure you include all the necessary files and resolutions that then will be utilized by downstream software.
+       </p>
+       <h3 id="why-am-i-getting-zero-sized-nifti-files">
+        Why am I getting zero-sized NIfTI files?
+        <a class="headerlink" href="#why-am-i-getting-zero-sized-nifti-files" title="Permanent link">
+         ¶
+        </a>
+       </h3>
+       <p>
+        (From:
+        <a href="https://github.com/templateflow/tpl-MNI152NLin2009cAsym/issues/7" title="Zerosize Issue">
+         templateflow/tpl-MNI152NLin2009cAsym#7
+        </a>
+        )
+       </p>
+       <p>
+        If you just installed
+        <em>
+         TemplateFlow
+        </em>
+        without explicitly setting the DataLad mode of operation
+on, then it will be using the S3 backend.
+To allow lazy loading, S3-operated client installations deploy an
+        <em>
+         archive skeleton
+        </em>
+        to the
+        <em>
+         TemplateFlow Home
+        </em>
+        directory.
+This skeleton contains zero-size files, that are replaced by the appropriate content pulled down
+from S3 on the first utilization.
+       </p>
+       <p>
+        So, if you just installed the client, and want to open a particular template image with the
+Mango visualization tool, instead of just doing:
+       </p>
+       <div class="codehilite">
+        <pre><span></span><code>$ mango <span class="si">${</span><span class="nv">TEMPLATEFLOW_HOME</span><span class="k">:-</span><span class="nv">$HOME</span><span class="p">/.cache/templateflow</span><span class="si">}</span>/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_T1w.nii.gz
+</code></pre>
+       </div>
+       <p>
+        Please make sure you use the client to access the image, for instance:
+       </p>
+       <div class="codehilite">
+        <pre><span></span><code>$ mango <span class="k">$(</span> python -c <span class="s2">"from templateflow.api import get; \</span>
+<span class="s2">          print(str(get('MNI152NLin6Asym', resolution=1, suffix='T1w', desc=None, extension='nii.gz')))"</span> <span class="k">)</span>
+</code></pre>
+       </div>
+       <p>
+        A pretty close behavior will be expected when operating in DataLad mode, although instead of getting
+zero-sized files, you'll probably get a straight
+        <em>
+         file not found
+        </em>
+        error.
+       </p>
+       <h2 id="documentation-for-developers">
+        Documentation for developers
+        <a class="headerlink" href="#documentation-for-developers" title="Permanent link">
+         ¶
+        </a>
+       </h2>
+       <p>
+        The client is thought out to be integrated in higher-level neuroimaging workflows,
+such as
+        <a href="https://fmriprep.readthedocs.io" title="fMRIPrep">
+         <em>
+          fMRIPrep
+         </em>
+        </a>
+        ,
+        <a href="https://mriqc.readthedocs.io" title="MRIQC">
+         <em>
+          MRIQC
+         </em>
+        </a>
+        .
+Further details about the usage of the tool are found in the
+        <a href="https://templateflow.github.io/python-client" title="TemplateFlow Python client documentation">
+         documentation
+        </a>
+        .
+       </p>
+      </article>
+     </div>
+    </div>
+   </main>
+   <footer class="md-footer">
+    <div class="md-footer-nav">
+     <nav aria-label="Footer" class="md-footer-nav__inner md-grid">
+      <a class="md-footer-nav__link md-footer-nav__link--prev" href="../archive/" rel="prev" title="TemplateFlow Archive">
+       <div class="md-footer-nav__button md-icon">
+        <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+         <path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z">
+         </path>
+        </svg>
+       </div>
+       <div class="md-footer-nav__title">
+        <div class="md-ellipsis">
+         <span class="md-footer-nav__direction">
+          Previous
+         </span>
+         TemplateFlow Archive
+        </div>
+       </div>
+      </a>
+      <a class="md-footer-nav__link md-footer-nav__link--next" href="../../contributing/guidelines/" rel="next" title="Guidelines">
+       <div class="md-footer-nav__title">
+        <div class="md-ellipsis">
+         <span class="md-footer-nav__direction">
+          Next
+         </span>
+         Guidelines
+        </div>
+       </div>
+       <div class="md-footer-nav__button md-icon">
+        <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+         <path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z">
+         </path>
+        </svg>
+       </div>
+      </a>
+     </nav>
+    </div>
+    <div class="md-footer-meta md-typeset">
+     <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+       <div class="md-footer-copyright__highlight">
+        Copyright © 2020 - The NiPreps developers
+       </div>
+       Made with
+       <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+        Material for MkDocs
+       </a>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </div>
+  <script src="../../assets/javascripts/vendor.d710d30a.min.js">
+  </script>
+  <script src="../../assets/javascripts/bundle.5f27aba8.min.js">
+  </script>
+  <script id="__lang" type="application/json">
+   {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents"}
+  </script>
+  <script>
+   app = initialize({
+          base: "../..",
+          features: ["tabs"],
+          search: Object.assign({
+            worker: "../../assets/javascripts/worker/search.27c6a5e6.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+  </script>
+ </body>
+</html>
