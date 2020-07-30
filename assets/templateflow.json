@@ -1,5 +1,76 @@
 [
   {
+    "text": "tpl-Fischer344",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-Fischer344/master/template_description.json"
+      },
+      {
+        "text": "tpl-Fischer344_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-Fischer344_atlas-v4_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_atlas-v4_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-Fischer344_atlas-v4_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-Fischer344/master/tpl-Fischer344_atlas-v4_dseg.tsv"
+      },
+      {
+        "text": "tpl-Fischer344_desc-BrainCerebellumExtraction_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_desc-BrainCerebellumExtraction_mask.nii.gz"
+      },
+      {
+        "text": "tpl-Fischer344_desc-brain_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-Fischer344_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-Fischer344_hemi-L_desc-brain_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_hemi-L_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-Fischer344_hemi-R_desc-brain_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_hemi-R_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-Fischer344_label-CSF_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_label-CSF_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-Fischer344_label-GM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_label-GM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-Fischer344_label-WM_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_label-WM_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-Fischer344_label-other_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-Fischer344/tpl-Fischer344_label-other_probseg.nii.gz"
+      }
+    ]
+  },
+  {
     "text": "tpl-MNI152Lin",
     "icon": "fa fa-folder",
     "nodes": [
