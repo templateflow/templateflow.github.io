@@ -273,6 +273,11 @@
         "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.tsv"
       },
       {
+        "text": "tpl-MNI152NLin2009cAsym_desc-carpet_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_desc-carpet_dseg.tsv"
+      },
+      {
         "text": "tpl-MNI152NLin2009cAsym_from-MNI152NLin6Asym_mode-image_xfm.h5",
         "icon": "fas fa-route",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_from-MNI152NLin6Asym_mode-image_xfm.h5"
