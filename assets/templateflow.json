@@ -2671,6 +2671,246 @@
     ]
   },
   {
+    "text": "tpl-UNCInfant",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-UNCInfant/master/LICENSE"
+      },
+      {
+        "text": "cohort-1",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-UNCInfant_cohort-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_atlas-AAL_dseg.nii.gz",
+            "icon": "fas fa-globe",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_atlas-AAL_dseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_desc-brain_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_desc-brain_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_desc-cerebrum_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_desc-cerebrum_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_desc-cerebrum_dseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_desc-cerebrum_dseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_label-BrainCerebellumExtraction_mask.nii.gz",
+            "icon": "fas fa-crop-alt",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_label-BrainCerebellumExtraction_mask.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_label-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_label-all_desc-avgseg_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_label-all_desc-avgseg_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_label-brain_mask.nii.gz",
+            "icon": "fas fa-crop-alt",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_label-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_label-brain_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_label-brain_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-1_label-cerebrum_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-1/tpl-UNCInfant_cohort-1_label-cerebrum_probseg.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-2",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-UNCInfant_cohort-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_atlas-AAL_dseg.nii.gz",
+            "icon": "fas fa-globe",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_atlas-AAL_dseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_desc-brain_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_desc-brain_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_desc-cerebrum_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_desc-cerebrum_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_desc-cerebrum_dseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_desc-cerebrum_dseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_label-BrainCerebellumExtraction_mask.nii.gz",
+            "icon": "fas fa-crop-alt",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_label-BrainCerebellumExtraction_mask.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_label-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_label-all_desc-avgseg_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_label-all_desc-avgseg_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_label-brain_mask.nii.gz",
+            "icon": "fas fa-crop-alt",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_label-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_label-brain_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_label-brain_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-2_label-cerebrum_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-2/tpl-UNCInfant_cohort-2_label-cerebrum_probseg.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-3",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-UNCInfant_cohort-3_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_atlas-AAL_dseg.nii.gz",
+            "icon": "fas fa-globe",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_atlas-AAL_dseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_desc-brain_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_desc-brain_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_desc-cerebrum_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_desc-cerebrum_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_desc-cerebrum_dseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_desc-cerebrum_dseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_label-BrainCerebellumExtraction_mask.nii.gz",
+            "icon": "fas fa-crop-alt",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_label-BrainCerebellumExtraction_mask.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_label-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_label-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_label-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_label-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_label-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_label-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_label-all_desc-avgseg_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_label-all_desc-avgseg_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_label-brain_mask.nii.gz",
+            "icon": "fas fa-crop-alt",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_label-brain_mask.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_label-brain_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_label-brain_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-UNCInfant_cohort-3_label-cerebrum_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-UNCInfant/cohort-3/tpl-UNCInfant_cohort-3_label-cerebrum_probseg.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "softbrainmask.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-UNCInfant/master/scripts/softbrainmask.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-UNCInfant/master/template_description.json"
+      }
+    ]
+  },
+  {
     "text": "tpl-WHS",
     "icon": "fa fa-folder",
     "nodes": [
