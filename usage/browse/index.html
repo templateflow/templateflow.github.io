@@ -5,11 +5,11 @@
   <meta content="width=device-width,initial-scale=1" name="viewport"/>
   <meta content="A standardized archive and client of neuroimaging templates" name="description"/>
   <meta content="The NiPreps developers" name="author"/>
-  <link href="https://www.templateflow.org/usage/archive/" rel="canonical"/>
+  <link href="https://www.templateflow.org/usage/browse/" rel="canonical"/>
   <link href="../../assets/images/favicon.png" rel="shortcut icon"/>
   <meta content="mkdocs-1.1.2, mkdocs-material-6.2.8" name="generator"/>
   <title>
-   TemplateFlow Archive - TemplateFlow
+   Archive Browser - TemplateFlow
   </title>
   <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" rel="stylesheet"/>
   <link href="../../css/bstreeview.min.css" rel="stylesheet"/>
@@ -37,9 +37,6 @@
   <label class="md-overlay" for="__drawer">
   </label>
   <div data-md-component="skip">
-   <a class="md-skip" href="#accessing-the-archive-via-the-python-client">
-    Skip to content
-   </a>
   </div>
   <div data-md-component="announce">
   </div>
@@ -66,7 +63,7 @@
       </div>
       <div class="md-header-nav__topic">
        <span class="md-ellipsis">
-        TemplateFlow Archive
+        Archive Browser
        </span>
       </div>
      </div>
@@ -135,43 +132,14 @@
              Usage
             </label>
             <ul class="md-nav__list" data-md-scrollfix="">
-             <li class="md-nav__item md-nav__item--active">
-              <input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
-              <label class="md-nav__link md-nav__link--active" for="__toc">
-               TemplateFlow Archive
-               <span class="md-nav__icon md-icon">
-               </span>
-              </label>
-              <a class="md-nav__link md-nav__link--active" href="./">
+             <li class="md-nav__item">
+              <a class="md-nav__link" href="../archive/">
                TemplateFlow Archive
               </a>
-              <nav aria-label="Table of contents" class="md-nav md-nav--secondary">
-               <label class="md-nav__title" for="__toc">
-                <span class="md-nav__icon md-icon">
-                </span>
-                Table of contents
-               </label>
-               <ul class="md-nav__list" data-md-scrollfix="">
-                <li class="md-nav__item">
-                 <a class="md-nav__link" href="#accessing-the-archive-via-the-python-client">
-                  Accessing the Archive via the Python client
-                 </a>
-                </li>
-                <li class="md-nav__item">
-                 <a class="md-nav__link" href="#accessing-the-archive-via-datalad">
-                  Accessing the Archive via DataLad
-                 </a>
-                </li>
-                <li class="md-nav__item">
-                 <a class="md-nav__link" href="#acceptable-data-types">
-                  Acceptable data types
-                 </a>
-                </li>
-               </ul>
-              </nav>
              </li>
-             <li class="md-nav__item">
-              <a class="md-nav__link" href="../browse/">
+             <li class="md-nav__item md-nav__item--active">
+              <input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+              <a class="md-nav__link md-nav__link--active" href="./">
                Archive Browser
               </a>
              </li>
@@ -220,169 +188,34 @@
        </div>
       </div>
      </div>
-     <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
-      <div class="md-sidebar__scrollwrap">
-       <div class="md-sidebar__inner">
-        <nav aria-label="Table of contents" class="md-nav md-nav--secondary">
-         <label class="md-nav__title" for="__toc">
-          <span class="md-nav__icon md-icon">
-          </span>
-          Table of contents
-         </label>
-         <ul class="md-nav__list" data-md-scrollfix="">
-          <li class="md-nav__item">
-           <a class="md-nav__link" href="#accessing-the-archive-via-the-python-client">
-            Accessing the Archive via the Python client
-           </a>
-          </li>
-          <li class="md-nav__item">
-           <a class="md-nav__link" href="#accessing-the-archive-via-datalad">
-            Accessing the Archive via DataLad
-           </a>
-          </li>
-          <li class="md-nav__item">
-           <a class="md-nav__link" href="#acceptable-data-types">
-            Acceptable data types
-           </a>
-          </li>
-         </ul>
-        </nav>
-       </div>
-      </div>
-     </div>
      <div class="md-content">
       <article class="md-content__inner md-typeset">
-       <a class="md-content__button md-icon" href="https://github.com/templateflow/templateflow/edit/master/docs/usage/archive.md" title="Edit this page">
+       <a class="md-content__button md-icon" href="https://github.com/templateflow/templateflow/edit/master/docs/usage/browse.md" title="Edit this page">
         <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
          <path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z">
          </path>
         </svg>
        </a>
        <h1>
-        TemplateFlow Archive
+        Archive Browser
        </h1>
        <p>
-        The
-        <em>
-         TemplateFlow Archive
-        </em>
-        aggregates all the templates for redistribution.
-The archive uses
-        <a href="https://datalad.org" title="DataLad">
-         DataLad
-        </a>
-        to maintain all templates under version control.
+        Template data are archived using a BIDS-like directory structure, with top-level directories for each template.
+Each directory contains image files, annotations, and metadata for that template. Following BIDS specifications, volumetric data are stored in NIfTI format and surface data with the GIFTI2 format.
        </p>
-       <h2 id="accessing-the-archive-via-the-python-client">
-        Accessing the Archive via the Python client
-        <a class="headerlink" href="#accessing-the-archive-via-the-python-client" title="Permanent link">
-         ¶
-        </a>
-       </h2>
-       <p>
-        The recommended way to use TemplateFlow is via the
-        <a href="../client/">
-         Python Client
-        </a>
-       </p>
-       <h2 id="accessing-the-archive-via-datalad">
-        Accessing the Archive via DataLad
-        <a class="headerlink" href="#accessing-the-archive-via-datalad" title="Permanent link">
-         ¶
-        </a>
-       </h2>
-       <p>
-        First, make sure you have a functional installation of DataLad.
-The archive has a top-level data structure to maintain all templates.
-This is the
-        <em>
-         super-dataset
-        </em>
-        , and it is maintained on
-        <a href="https://github.com/templateflow/templateflow" title="TemplateFlow repository">
-         GitHub
-        </a>
-        .
-The latest stable super-dataset can be referenced with
-        <code>
-         ///templateflow
-        </code>
-        :
-       </p>
-       <div class="codehilite">
-        <pre><span></span><code>$ datalad install -r ///templateflow
-</code></pre>
+       <div id="tree">
        </div>
-       <p>
-        The
-        <code>
-         -r
-        </code>
-        switch ensures all available templates are also
-        <em>
-         installed
-        </em>
-        .
-       </p>
-       <p>
-        Once the super-dataset and its siblings are installed, metadata will be already accessible.
-However, the different imaging data resources (NIfTI, GIFTI and transforms files) have to be pulled down.
-       </p>
-       <p>
-        For example, to download the complete
-        <code>
-         tpl-MNI152NLin2009cAsym
-        </code>
-        :
-       </p>
-       <div class="codehilite">
-        <pre><span></span><code>$ <span class="nb">cd</span> templateflow
-$ datalad get -r tpl-MNI152NLin2009cAsym
-</code></pre>
-       </div>
-       <h2 id="acceptable-data-types">
-        Acceptable data types
-        <a class="headerlink" href="#acceptable-data-types" title="Permanent link">
-         ¶
-        </a>
-       </h2>
-       <p>
-        The
-        <em>
-         TemplateFlow Archive
-        </em>
-        contains template resources.
-       </p>
-       <p>
-        <img alt="Data Types" src="assets/templateflow_fig-archive.png"/>
-        Common file formats included in the
-        <em>
-         TemplateFlow Archive
-        </em>
-        .
-       </p>
-       <p>
-        <img alt="Metadata" src="assets/templateflow_fig-metadata.png"/>
-        Overview of the
-        <em>
-         TemplateFlow Archive
-        </em>
-        metadata specification.
-        <em>
-         TemplateFlow
-        </em>
-        metadata are formatted as JavaScript Object Notation (JSON) files located at the top of the template's directory.
-An example
-        <code>
-         template_description.json
-        </code>
-        metadata file is displayed at left (for the pediatric MNI template).
-In addition to general template metadata,
-        <em>
-         TemplateFlow
-        </em>
-        datasets can contain cohort-level and resolution-level metadata, which are nested within the main metadata dictionary and apply only to subsets of images in the dataset.
-       </p>
+       <script>
+        $(document).ready(function() {
+      $.ajax({
+          url : "../../assets/templateflow.json",
+          dataType: "text",
+          success : function (tree) {
+              $('#tree').bstreeview({ data: tree });
+          }
+      });
+});
+       </script>
       </article>
      </div>
     </div>
@@ -390,7 +223,7 @@ In addition to general template metadata,
    <footer class="md-footer">
     <div class="md-footer-nav">
      <nav aria-label="Footer" class="md-footer-nav__inner md-grid">
-      <a class="md-footer-nav__link md-footer-nav__link--prev" href="../.." rel="prev">
+      <a class="md-footer-nav__link md-footer-nav__link--prev" href="../archive/" rel="prev">
        <div class="md-footer-nav__button md-icon">
         <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
          <path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z">
@@ -402,17 +235,17 @@ In addition to general template metadata,
          <span class="md-footer-nav__direction">
           Previous
          </span>
-         Home
+         TemplateFlow Archive
         </div>
        </div>
       </a>
-      <a class="md-footer-nav__link md-footer-nav__link--next" href="../browse/" rel="next">
+      <a class="md-footer-nav__link md-footer-nav__link--next" href="../client/" rel="next">
        <div class="md-footer-nav__title">
         <div class="md-ellipsis">
          <span class="md-footer-nav__direction">
           Next
          </span>
-         Archive Browser
+         Python Client
         </div>
        </div>
        <div class="md-footer-nav__button md-icon">

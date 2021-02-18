@@ -37,7 +37,7 @@
   <label class="md-overlay" for="__drawer">
   </label>
   <div data-md-component="skip">
-   <a class="md-skip" href="#step-1-organize-your-template-tree">
+   <a class="md-skip" href="#overview-submission-pipeline-and-the-templateflow-manager-tool">
     Skip to content
    </a>
   </div>
@@ -141,6 +141,11 @@
               </a>
              </li>
              <li class="md-nav__item">
+              <a class="md-nav__link" href="../../usage/browse/">
+               Archive Browser
+              </a>
+             </li>
+             <li class="md-nav__item">
               <a class="md-nav__link" href="../../usage/client/">
                Python Client
               </a>
@@ -190,6 +195,11 @@
                </label>
                <ul class="md-nav__list" data-md-scrollfix="">
                 <li class="md-nav__item">
+                 <a class="md-nav__link" href="#overview-submission-pipeline-and-the-templateflow-manager-tool">
+                  Overview: Submission pipeline and the TemplateFlow Manager tool
+                 </a>
+                </li>
+                <li class="md-nav__item">
                  <a class="md-nav__link" href="#step-1-organize-your-template-tree">
                   Step 1: Organize your template tree
                  </a>
@@ -230,6 +240,11 @@
           Table of contents
          </label>
          <ul class="md-nav__list" data-md-scrollfix="">
+          <li class="md-nav__item">
+           <a class="md-nav__link" href="#overview-submission-pipeline-and-the-templateflow-manager-tool">
+            Overview: Submission pipeline and the TemplateFlow Manager tool
+           </a>
+          </li>
           <li class="md-nav__item">
            <a class="md-nav__link" href="#step-1-organize-your-template-tree">
             Step 1: Organize your template tree
@@ -288,6 +303,51 @@
          .
         </p>
        </div>
+       <h2 id="overview-submission-pipeline-and-the-templateflow-manager-tool">
+        Overview: Submission pipeline and the
+        <em>
+         TemplateFlow Manager
+        </em>
+        tool
+        <a class="headerlink" href="#overview-submission-pipeline-and-the-templateflow-manager-tool" title="Permanent link">
+         ¶
+        </a>
+       </h2>
+       <p>
+        <img alt="Manager" src="assets/templateflow_fig-manager.png"/>
+        To contribute a new template to
+        <em>
+         TemplateFlow
+        </em>
+        , members of the community first organise template resources to conform to the BIDS-like
+        <em>
+         TemplateFlow
+        </em>
+        structure.
+Next, the
+        <em>
+         TemplateFlow Manager
+        </em>
+        tool (
+        <code>
+         tfmgr
+        </code>
+        ) synchronises the resources to OSF cloud storage and opens a new pull request proposing the addition of the new template.
+A subsequent peer-review process ensures that all data are conformant with the
+        <em>
+         TemplateFlow
+        </em>
+        standard.
+Finally,
+        <em>
+         TemplateFlow
+        </em>
+        curators conclude the peer-review process with the merge of the pull request, thereby adding the template into the
+        <em>
+         TemplateFlow Archive
+        </em>
+        .
+       </p>
        <h2 id="step-1-organize-your-template-tree">
         Step 1: Organize your template tree
         <a class="headerlink" href="#step-1-organize-your-template-tree" title="Permanent link">
