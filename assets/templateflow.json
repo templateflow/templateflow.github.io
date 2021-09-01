@@ -2751,6 +2751,186 @@
     ]
   },
   {
+    "text": "tpl-RESILIENT",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-RESILIENT/master/LICENSE"
+      },
+      {
+        "text": "cohort-1",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-RESILIENT_cohort-1_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-1/tpl-RESILIENT_cohort-1_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-1_atlas-WHS_desc-Cerebrum3TissueLabels_dseg.nii.gz",
+            "icon": "fas fa-globe",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-1/tpl-RESILIENT_cohort-1_atlas-WHS_desc-Cerebrum3TissueLabels_dseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-1_desc-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-1/tpl-RESILIENT_cohort-1_desc-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-1_desc-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-1/tpl-RESILIENT_cohort-1_desc-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-1_desc-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-1/tpl-RESILIENT_cohort-1_desc-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-1_desc-brain_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-1/tpl-RESILIENT_cohort-1_desc-brain_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-1_desc-brain_mask.nii.gz",
+            "icon": "fas fa-crop-alt",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-1/tpl-RESILIENT_cohort-1_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-2",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-RESILIENT_cohort-2_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-2/tpl-RESILIENT_cohort-2_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-2_atlas-WHS_desc-Cerebrum3TissueLabels_dseg.nii.gz",
+            "icon": "fas fa-globe",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-2/tpl-RESILIENT_cohort-2_atlas-WHS_desc-Cerebrum3TissueLabels_dseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-2_desc-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-2/tpl-RESILIENT_cohort-2_desc-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-2_desc-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-2/tpl-RESILIENT_cohort-2_desc-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-2_desc-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-2/tpl-RESILIENT_cohort-2_desc-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-2_desc-brain_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-2/tpl-RESILIENT_cohort-2_desc-brain_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-2_desc-brain_mask.nii.gz",
+            "icon": "fas fa-crop-alt",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-2/tpl-RESILIENT_cohort-2_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-3",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-RESILIENT_cohort-3_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-3/tpl-RESILIENT_cohort-3_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-3_atlas-WHS_desc-Cerebrum3TissueLabels_dseg.nii.gz",
+            "icon": "fas fa-globe",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-3/tpl-RESILIENT_cohort-3_atlas-WHS_desc-Cerebrum3TissueLabels_dseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-3_desc-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-3/tpl-RESILIENT_cohort-3_desc-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-3_desc-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-3/tpl-RESILIENT_cohort-3_desc-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-3_desc-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-3/tpl-RESILIENT_cohort-3_desc-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-3_desc-brain_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-3/tpl-RESILIENT_cohort-3_desc-brain_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-3_desc-brain_mask.nii.gz",
+            "icon": "fas fa-crop-alt",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-3/tpl-RESILIENT_cohort-3_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "cohort-4",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-RESILIENT_cohort-4_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-4/tpl-RESILIENT_cohort-4_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-4_atlas-WHS_desc-Cerebrum3TissueLabels_dseg.nii.gz",
+            "icon": "fas fa-globe",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-4/tpl-RESILIENT_cohort-4_atlas-WHS_desc-Cerebrum3TissueLabels_dseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-4_desc-CSF_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-4/tpl-RESILIENT_cohort-4_desc-CSF_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-4_desc-GM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-4/tpl-RESILIENT_cohort-4_desc-GM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-4_desc-WM_probseg.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-4/tpl-RESILIENT_cohort-4_desc-WM_probseg.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-4_desc-brain_T1w.nii.gz",
+            "icon": "fas fa-brain",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-4/tpl-RESILIENT_cohort-4_desc-brain_T1w.nii.gz"
+          },
+          {
+            "text": "tpl-RESILIENT_cohort-4_desc-brain_mask.nii.gz",
+            "icon": "fas fa-crop-alt",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-RESILIENT/cohort-4/tpl-RESILIENT_cohort-4_desc-brain_mask.nii.gz"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-RESILIENT/master/template_description.json"
+      }
+    ]
+  },
+  {
     "text": "tpl-UNCInfant",
     "icon": "fa fa-folder",
     "nodes": [
