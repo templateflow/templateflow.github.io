@@ -3583,6 +3583,88 @@
     ]
   },
   {
+    "text": "tpl-VALiDATe29",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-VALiDATe29/master/CHANGES"
+      },
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-VALiDATe29/master/LICENSE"
+      },
+      {
+        "text": "scripts",
+        "icon": "fa fa-folder",
+        "nodes": [
+          {
+            "text": "convert_labels.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-VALiDATe29/master/scripts/convert_labels.py"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-VALiDATe29/master/template_description.json"
+      },
+      {
+        "text": "tpl-VALiDATe29_atlas-VALiDATe_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-VALiDATe29/tpl-VALiDATe29_atlas-VALiDATe_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-VALiDATe29_atlas-VALiDATe_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-VALiDATe29/master/tpl-VALiDATe29_atlas-VALiDATe_dseg.tsv"
+      },
+      {
+        "text": "tpl-VALiDATe29_desc-brain_FA.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-VALiDATe29/tpl-VALiDATe29_desc-brain_FA.nii.gz"
+      },
+      {
+        "text": "tpl-VALiDATe29_desc-brain_MD.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-VALiDATe29/tpl-VALiDATe29_desc-brain_MD.nii.gz"
+      },
+      {
+        "text": "tpl-VALiDATe29_desc-brain_PD.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-VALiDATe29/tpl-VALiDATe29_desc-brain_PD.nii.gz"
+      },
+      {
+        "text": "tpl-VALiDATe29_desc-brain_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-VALiDATe29/tpl-VALiDATe29_desc-brain_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-VALiDATe29_desc-brain_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-VALiDATe29/tpl-VALiDATe29_desc-brain_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-VALiDATe29_desc-brain_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-VALiDATe29/tpl-VALiDATe29_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-VALiDATe29_desc-exvivo_FA.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-VALiDATe29/tpl-VALiDATe29_desc-exvivo_FA.nii.gz"
+      },
+      {
+        "text": "tpl-VALiDATe29_desc-exvivo_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-VALiDATe29/tpl-VALiDATe29_desc-exvivo_T1w.nii.gz"
+      }
+    ]
+  },
+  {
     "text": "tpl-WHS",
     "icon": "fa fa-folder",
     "nodes": [
