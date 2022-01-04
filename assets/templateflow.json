@@ -1431,6 +1431,47 @@
     ]
   },
   {
+    "text": "tpl-MNI305",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI305/master/CHANGES"
+      },
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI305/master/LICENSE"
+      },
+      {
+        "text": "README.md",
+        "icon": "fa fa-file",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI305/master/README.md"
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI305/master/template_description.json"
+      },
+      {
+        "text": "tpl-MNI305_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI305/tpl-MNI305_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI305_desc-brain_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI305/tpl-MNI305_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNI305_desc-head_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI305/tpl-MNI305_desc-head_mask.nii.gz"
+      }
+    ]
+  },
+  {
     "text": "tpl-MNIInfant",
     "icon": "fa fa-folder",
     "nodes": [
