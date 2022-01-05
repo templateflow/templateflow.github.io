@@ -977,6 +977,16 @@
         "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-Schaefer2018_desc-800Parcels7Networks_dseg.tsv"
       },
       {
+        "text": "tpl-MNI152NLin6Asym_from-MNI152NLin2009cAsym_mode-image_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNI152NLin2009cAsym_mode-image_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNI152NLin2009cAsym_mode-image_xfm.mat",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNI152NLin2009cAsym_mode-image_xfm.mat"
+      },
+      {
         "text": "tpl-MNI152NLin6Asym_res-01_T1w.nii.gz",
         "icon": "fas fa-brain",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_T1w.nii.gz"
