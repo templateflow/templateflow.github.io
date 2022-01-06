@@ -882,6 +882,31 @@
         "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/template_description.json"
       },
       {
+        "text": "tpl-MNI152NLin6Asym_atlas-DiFuMo_desc-1024dimensions_probseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-DiFuMo_desc-1024dimensions_probseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-DiFuMo_desc-128dimensions_probseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-DiFuMo_desc-128dimensions_probseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-DiFuMo_desc-256dimensions_probseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-DiFuMo_desc-256dimensions_probseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-DiFuMo_desc-512dimensions_probseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-DiFuMo_desc-512dimensions_probseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_atlas-DiFuMo_desc-64dimensions_probseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-DiFuMo_desc-64dimensions_probseg.tsv"
+      },
+      {
         "text": "tpl-MNI152NLin6Asym_atlas-HOCPAL_dseg.tsv",
         "icon": "fas fa-table",
         "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_atlas-HOCPAL_dseg.tsv"
@@ -1150,6 +1175,31 @@
         "text": "tpl-MNI152NLin6Asym_res-02_T1w.nii.gz",
         "icon": "fas fa-brain",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-DiFuMo_desc-1024dimensions_probseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-DiFuMo_desc-1024dimensions_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-DiFuMo_desc-128dimensions_probseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-DiFuMo_desc-128dimensions_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-DiFuMo_desc-256dimensions_probseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-DiFuMo_desc-256dimensions_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-DiFuMo_desc-512dimensions_probseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-DiFuMo_desc-512dimensions_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-02_atlas-DiFuMo_desc-64dimensions_probseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_atlas-DiFuMo_desc-64dimensions_probseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-02_atlas-HCP_desc-dilBrain_mask.nii.gz",
