@@ -1532,6 +1532,47 @@
     ]
   },
   {
+    "text": "tpl-MNIColin27",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIColin27/master/CHANGES"
+      },
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIColin27/master/LICENSE"
+      },
+      {
+        "text": "README.md",
+        "icon": "fa fa-file",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIColin27/master/README.md"
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIColin27/master/template_description.json"
+      },
+      {
+        "text": "tpl-MNIColin27_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNIColin27/tpl-MNIColin27_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNIColin27_desc-brain_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNIColin27/tpl-MNIColin27_desc-brain_mask.nii.gz"
+      },
+      {
+        "text": "tpl-MNIColin27_desc-head_mask.nii.gz",
+        "icon": "fas fa-crop-alt",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNIColin27/tpl-MNIColin27_desc-head_mask.nii.gz"
+      }
+    ]
+  },
+  {
     "text": "tpl-MNIInfant",
     "icon": "fa fa-folder",
     "nodes": [
