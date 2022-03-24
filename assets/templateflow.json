@@ -111,6 +111,36 @@
         "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152Lin/master/template_description.json"
       },
       {
+        "text": "tpl-MNI152Lin_desc-SPM12_res-02_PDw.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_desc-SPM12_res-02_PDw.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_desc-SPM12_res-02_PET.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_desc-SPM12_res-02_PET.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_desc-SPM12_res-02_SPECT.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_desc-SPM12_res-02_SPECT.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_desc-SPM12_res-02_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_desc-SPM12_res-02_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_desc-SPM12_res-02_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_desc-SPM12_res-02_T2w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152Lin_desc-SPM12_res-02_epi.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_desc-SPM12_res-02_epi.nii.gz"
+      },
+      {
         "text": "tpl-MNI152Lin_res-01_PD.nii.gz",
         "icon": "fas fa-brain",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin/tpl-MNI152Lin_res-01_PD.nii.gz"
