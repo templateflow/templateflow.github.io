@@ -330,6 +330,42 @@
     ]
   },
   {
+    "text": "tpl-MNI152NLin2009bAsym",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009bAsym/master/CHANGES"
+      },
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009bAsym/master/LICENSE"
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009bAsym/master/template_description.json"
+      },
+      {
+        "text": "tpl-MNI152NLin2009bAsym_res-1_PDw.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009bAsym/tpl-MNI152NLin2009bAsym_res-1_PDw.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009bAsym_res-1_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009bAsym/tpl-MNI152NLin2009bAsym_res-1_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009bAsym_res-1_T2w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009bAsym/tpl-MNI152NLin2009bAsym_res-1_T2w.nii.gz"
+      }
+    ]
+  },
+  {
     "text": "tpl-MNI152NLin2009bSym",
     "icon": "fa fa-folder",
     "nodes": [
