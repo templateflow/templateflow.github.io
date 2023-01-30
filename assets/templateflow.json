@@ -8610,6 +8610,11 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_desc-vaavg_midthickness.shape.gii"
       },
       {
+        "text": "tpl-fsaverage_hemi-L_den-164k_midthickness.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_midthickness.surf.gii"
+      },
+      {
         "text": "tpl-fsaverage_hemi-L_den-164k_pial.surf.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_pial.surf.gii"
@@ -8708,6 +8713,11 @@
         "text": "tpl-fsaverage_hemi-R_den-164k_desc-vaavg_midthickness.shape.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_desc-vaavg_midthickness.shape.gii"
+      },
+      {
+        "text": "tpl-fsaverage_hemi-R_den-164k_midthickness.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_midthickness.surf.gii"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_pial.surf.gii",
