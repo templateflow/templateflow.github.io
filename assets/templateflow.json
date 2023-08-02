@@ -8795,5 +8795,71 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_res-01_desc-brain_mask.nii.gz"
       }
     ]
+  },
+  {
+    "text": "tpl-onavg",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-onavg/master/CHANGES"
+      },
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-onavg/master/LICENSE"
+      },
+      {
+        "text": "README.md",
+        "icon": "fa fa-file",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-onavg/master/README.md"
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-onavg/master/template_description.json"
+      },
+      {
+        "text": "tpl-onavg_hemi-L_den-10k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_hemi-L_den-10k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_hemi-L_den-164k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_hemi-L_den-164k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_hemi-L_den-41k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_hemi-L_den-41k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_hemi-L_den-655k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_hemi-L_den-655k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_hemi-R_den-10k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_hemi-R_den-10k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_hemi-R_den-164k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_hemi-R_den-164k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_hemi-R_den-41k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_hemi-R_den-41k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_hemi-R_den-655k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_hemi-R_den-655k_sphere.surf.gii"
+      }
+    ]
   }
 ]
