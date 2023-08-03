@@ -616,7 +616,20 @@ TF<span class="w"> </span>Archive<span class="w"> </span>manager<span class="w">
 <p><strong>On OSF.io</strong>: First, generate a personal authentication token (PAT) to authenticate your username and be able to upload data to OSF.
 Good guidelines <a href="https://mjaquiery.github.io/jspsych-born-open-data/osf-pat/index.html">on how to create your PAT on OSF are given here</a>.</p>
 <p><strong>On GitHub</strong>: Then, you also want to generate a PAT to authenticate against GitHub.
-If you are unsure of how to properly create one, please follow the <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens">official guidelines</a>, in particular, it is likely easier to avoid permissions problems if you take the <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic">classic tokens route</a>.</p>
+If you are unsure of how to properly create one, please follow the <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens">official guidelines</a>, in particular, it is likely easier to avoid permissions problems if you take the <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic">classic tokens route</a>.
+The permissions summary before finally creating the PAT should look as follows:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><img alt="GH PAT permissions" src="../../assets/gh-pat-permissions.png" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">For the <em>TemplateFlow Manager</em> to work, the PAT must have associated a number of permissions.</td>
+</tr>
+</tbody>
+</table>
 <div class="admonition critical">
 <p class="admonition-title">Make sure you store both tokens safely and that you will be able to retrieve them later</p>
 </div>
