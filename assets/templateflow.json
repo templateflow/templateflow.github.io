@@ -8363,6 +8363,1066 @@
     ]
   },
   {
+    "text": "tpl-dhcpAsym",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-dhcpAsym/master/LICENSE"
+      },
+      {
+        "text": "cohort-36",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-L_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-L_den-32k_white.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-36_hemi-R_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-36/tpl-dhcpAsym_cohort-36_hemi-R_den-32k_white.surf.gii"
+          }
+        ]
+      },
+      {
+        "text": "cohort-37",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-L_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-L_den-32k_white.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-37_hemi-R_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-37/tpl-dhcpAsym_cohort-37_hemi-R_den-32k_white.surf.gii"
+          }
+        ]
+      },
+      {
+        "text": "cohort-38",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-L_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-L_den-32k_white.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-38_hemi-R_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-38/tpl-dhcpAsym_cohort-38_hemi-R_den-32k_white.surf.gii"
+          }
+        ]
+      },
+      {
+        "text": "cohort-39",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-L_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-L_den-32k_white.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-39_hemi-R_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-39/tpl-dhcpAsym_cohort-39_hemi-R_den-32k_white.surf.gii"
+          }
+        ]
+      },
+      {
+        "text": "cohort-40",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-L_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-L_den-32k_white.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-40_hemi-R_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-40/tpl-dhcpAsym_cohort-40_hemi-R_den-32k_white.surf.gii"
+          }
+        ]
+      },
+      {
+        "text": "cohort-41",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-L_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-L_den-32k_white.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-41_hemi-R_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-41/tpl-dhcpAsym_cohort-41_hemi-R_den-32k_white.surf.gii"
+          }
+        ]
+      },
+      {
+        "text": "cohort-42",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-L_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-L_den-32k_white.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_white.surf.gii"
+          }
+        ]
+      },
+      {
+        "text": "cohort-43",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-L_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-L_den-32k_white.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-43_hemi-R_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-43/tpl-dhcpAsym_cohort-43_hemi-R_den-32k_white.surf.gii"
+          }
+        ]
+      },
+      {
+        "text": "cohort-44",
+        "icon": "fas fa-users",
+        "nodes": [
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-L_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-L_den-32k_white.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_curv.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_curv.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_label.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_label.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_midthickness.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_midthickness.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_myelinmap.func.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_myelinmap.func.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_pial.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_pial.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_roi.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_roi.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_sulc.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_sulc.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_thickness.shape.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_thickness.shape.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_veryinflated.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_veryinflated.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-44_hemi-R_den-32k_white.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-44/tpl-dhcpAsym_cohort-44_hemi-R_den-32k_white.surf.gii"
+          }
+        ]
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-dhcpAsym/master/template_description.json"
+      }
+    ]
+  },
+  {
     "text": "tpl-fsLR",
     "icon": "fa fa-folder",
     "nodes": [
