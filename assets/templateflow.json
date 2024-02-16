@@ -9180,6 +9180,16 @@
             "text": "tpl-dhcpAsym_cohort-42_hemi-R_den-32k_white.surf.gii",
             "icon": "fas fa-draw-polygon",
             "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_hemi-R_den-32k_white.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_space-fsaverage_hemi-L_den-41k_desc-reg_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_space-fsaverage_hemi-L_den-41k_desc-reg_sphere.surf.gii"
+          },
+          {
+            "text": "tpl-dhcpAsym_cohort-42_space-fsaverage_hemi-R_den-41k_desc-reg_sphere.surf.gii",
+            "icon": "fas fa-draw-polygon",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-dhcpAsym/cohort-42/tpl-dhcpAsym_cohort-42_space-fsaverage_hemi-R_den-41k_desc-reg_sphere.surf.gii"
           }
         ]
       },
