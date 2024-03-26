@@ -457,6 +457,16 @@
         "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-DiFuMo_desc-64dimensions_probseg.tsv"
       },
       {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-MIAL67ThalamicNuclei_dseg.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-MIAL67ThalamicNuclei_dseg.json"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_atlas-MIAL67ThalamicNuclei_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-MIAL67ThalamicNuclei_dseg.tsv"
+      },
+      {
         "text": "tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.tsv",
         "icon": "fas fa-table",
         "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin2009cAsym/master/tpl-MNI152NLin2009cAsym_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.tsv"
@@ -610,6 +620,16 @@
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th50_dseg.nii.gz",
         "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-HOSPA_desc-th50_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-MIAL67ThalamicNuclei_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-MIAL67ThalamicNuclei_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-MIAL67ThalamicNuclei_probseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_atlas-MIAL67ThalamicNuclei_probseg.nii.gz"
       },
       {
         "text": "tpl-MNI152NLin2009cAsym_res-01_atlas-Schaefer2018_desc-1000Parcels17Networks_dseg.nii.gz",
