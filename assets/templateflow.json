@@ -11889,9 +11889,19 @@
         "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Desikan2006_dseg.json"
       },
       {
+        "text": "tpl-fsaverage_atlas-Desikan2006_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Desikan2006_dseg.tsv"
+      },
+      {
         "text": "tpl-fsaverage_atlas-Destrieux2005_dseg.json",
         "icon": "fas fa-file-alt",
         "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Destrieux2005_dseg.json"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Destrieux2005_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Destrieux2005_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_atlas-Destrieux2009_dseg.json",
@@ -11899,9 +11909,39 @@
         "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Destrieux2009_dseg.json"
       },
       {
+        "text": "tpl-fsaverage_atlas-Destrieux2009_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Destrieux2009_dseg.tsv"
+      },
+      {
         "text": "tpl-fsaverage_atlas-Lausanne2018_dseg.json",
         "icon": "fas fa-file-alt",
         "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Lausanne2018_dseg.json"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Lausanne2018_scale-1_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Lausanne2018_scale-1_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Lausanne2018_scale-2_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Lausanne2018_scale-2_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Lausanne2018_scale-3_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Lausanne2018_scale-3_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Lausanne2018_scale-4_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Lausanne2018_scale-4_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Lausanne2018_scale-5_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Lausanne2018_scale-5_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_atlas-Sabuncu2011_dseg.json",
@@ -11909,9 +11949,164 @@
         "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Sabuncu2011_dseg.json"
       },
       {
+        "text": "tpl-fsaverage_atlas-Sabuncu2011_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Sabuncu2011_dseg.tsv"
+      },
+      {
         "text": "tpl-fsaverage_atlas-Schaefer2018_dseg.json",
         "icon": "fas fa-file-alt",
         "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_dseg.json"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-1000_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-1000_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-100_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-100_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-200_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-200_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-300_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-300_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-400_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-400_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-500_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-500_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-600_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-600_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-700_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-700_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-800_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-800_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-900_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-17n_scale-900_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-1000_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-1000_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-100_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-100_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-200_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-200_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-300_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-300_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-400_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-400_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-500_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-500_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-600_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-600_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-700_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-700_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-800_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-800_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-900_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-7n_scale-900_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-1000_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-1000_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-100_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-100_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-200_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-200_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-300_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-300_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-400_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-400_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-500_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-500_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-600_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-600_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-700_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-700_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-800_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-800_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-900_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Schaefer2018_seg-kong17n_scale-900_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_atlas-Yeo2011_dseg.json",
@@ -11919,39 +12114,24 @@
         "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Yeo2011_dseg.json"
       },
       {
+        "text": "tpl-fsaverage_atlas-Yeo2011_seg-17n_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Yeo2011_seg-17n_dseg.tsv"
+      },
+      {
+        "text": "tpl-fsaverage_atlas-Yeo2011_seg-7n_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-Yeo2011_seg-7n_dseg.tsv"
+      },
+      {
         "text": "tpl-fsaverage_atlas-brainnetome_dseg.json",
         "icon": "fas fa-file-alt",
         "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-brainnetome_dseg.json"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_atlas-Desikan2006_seg-aparc.tsv",
+        "text": "tpl-fsaverage_atlas-brainnetome_dseg.tsv",
         "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_atlas-Desikan2006_seg-aparc.tsv"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_atlas-Destrieux2005_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_atlas-Destrieux2005_dseg.tsv"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_atlas-Destrieux2009_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_atlas-Destrieux2009_dseg.tsv"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_atlas-Sabuncu2011_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_atlas-Sabuncu2011_dseg.tsv"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_atlas-Yeo2011_seg-17n_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_atlas-Yeo2011_seg-17n_dseg.tsv"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_atlas-Yeo2011_seg-7n_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_atlas-Yeo2011_seg-7n_dseg.tsv"
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_atlas-brainnetome_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-10k_atlas-Desikan2006_seg-aparc_dseg.label.gii",
@@ -12024,19 +12204,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-1_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-1_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-1_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-2_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-2_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-2_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-2_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-3_dseg.label.gii",
@@ -12044,29 +12214,14 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-3_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-3_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-3_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-4_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-4_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-4_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-4_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-5_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-5_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-5_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Lausanne2018_scale-5_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Sabuncu2011_dseg.label.gii",
@@ -12079,19 +12234,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-1000_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-1000_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-1000_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-100_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-100_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-100_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-100_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-200_dseg.label.gii",
@@ -12099,19 +12244,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-200_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-200_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-200_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-300_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-300_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-300_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-300_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-400_dseg.label.gii",
@@ -12119,19 +12254,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-400_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-400_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-400_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-500_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-500_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-500_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-500_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-600_dseg.label.gii",
@@ -12139,19 +12264,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-600_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-600_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-600_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-700_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-700_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-700_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-700_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-800_dseg.label.gii",
@@ -12159,19 +12274,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-800_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-800_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-800_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-900_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-900_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-900_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-17n_scale-900_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-1000_dseg.label.gii",
@@ -12179,19 +12284,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-1000_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-1000_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-1000_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-100_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-100_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-100_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-100_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-200_dseg.label.gii",
@@ -12199,19 +12294,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-200_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-200_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-200_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-300_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-300_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-300_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-300_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-400_dseg.label.gii",
@@ -12219,19 +12304,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-400_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-400_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-400_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-500_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-500_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-500_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-500_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-600_dseg.label.gii",
@@ -12239,19 +12314,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-600_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-600_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-600_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-700_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-700_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-700_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-700_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-800_dseg.label.gii",
@@ -12259,19 +12324,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-800_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-800_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-800_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-900_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-900_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-900_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-7n_scale-900_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-1000_dseg.label.gii",
@@ -12279,19 +12334,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-1000_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-1000_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-1000_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-100_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-100_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-100_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-100_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-200_dseg.label.gii",
@@ -12299,19 +12344,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-200_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-200_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-200_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-300_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-300_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-300_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-300_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-400_dseg.label.gii",
@@ -12319,19 +12354,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-400_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-400_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-400_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-500_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-500_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-500_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-500_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-600_dseg.label.gii",
@@ -12339,19 +12364,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-600_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-600_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-600_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-700_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-700_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-700_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-700_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-800_dseg.label.gii",
@@ -12359,19 +12374,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-800_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-800_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-800_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-900_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-900_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-900_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-Schaefer2018_seg-kong17n_scale-900_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-Yeo2011_seg-17n_dseg.label.gii",
@@ -12387,11 +12392,6 @@
         "text": "tpl-fsaverage_hemi-L_den-164k_atlas-brainnetome_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_atlas-brainnetome_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-L_den-164k_atlas-brainnetome_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-L_den-164k_atlas-brainnetome_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-L_den-164k_curv.shape.gii",
@@ -12504,36 +12504,6 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-41k_white.surf.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_atlas-Desikan2006_seg-aparc.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_atlas-Desikan2006_seg-aparc.tsv"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_atlas-Destrieux2005_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_atlas-Destrieux2005_dseg.tsv"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_atlas-Destrieux2009_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_atlas-Destrieux2009_dseg.tsv"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_atlas-Sabuncu2011_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_atlas-Sabuncu2011_dseg.tsv"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_atlas-Yeo2011_seg-17n_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_atlas-Yeo2011_seg-17n_dseg.tsv"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_atlas-Yeo2011_seg-7n_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_atlas-Yeo2011_seg-7n_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-10k_atlas-Desikan2006_seg-aparc_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-10k_atlas-Desikan2006_seg-aparc_dseg.label.gii"
@@ -12604,19 +12574,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-1_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-1_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-1_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-2_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-2_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-2_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-2_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-3_dseg.label.gii",
@@ -12624,29 +12584,14 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-3_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-3_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-3_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-4_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-4_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-4_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-4_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-5_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-5_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-5_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Lausanne2018_scale-5_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Sabuncu2011_dseg.label.gii",
@@ -12659,19 +12604,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-1000_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-1000_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-1000_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-100_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-100_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-100_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-100_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-200_dseg.label.gii",
@@ -12679,19 +12614,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-200_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-200_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-200_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-300_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-300_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-300_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-300_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-400_dseg.label.gii",
@@ -12699,19 +12624,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-400_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-400_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-400_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-500_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-500_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-500_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-500_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-600_dseg.label.gii",
@@ -12719,19 +12634,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-600_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-600_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-600_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-700_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-700_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-700_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-700_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-800_dseg.label.gii",
@@ -12739,19 +12644,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-800_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-800_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-800_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-900_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-900_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-900_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-17n_scale-900_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-1000_dseg.label.gii",
@@ -12759,19 +12654,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-1000_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-1000_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-1000_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-100_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-100_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-100_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-100_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-200_dseg.label.gii",
@@ -12779,19 +12664,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-200_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-200_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-200_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-300_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-300_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-300_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-300_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-400_dseg.label.gii",
@@ -12799,19 +12674,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-400_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-400_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-400_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-500_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-500_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-500_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-500_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-600_dseg.label.gii",
@@ -12819,19 +12684,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-600_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-600_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-600_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-700_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-700_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-700_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-700_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-800_dseg.label.gii",
@@ -12839,19 +12694,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-800_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-800_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-800_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-900_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-900_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-900_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-7n_scale-900_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-1000_dseg.label.gii",
@@ -12859,19 +12704,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-1000_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-1000_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-1000_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-100_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-100_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-100_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-100_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-200_dseg.label.gii",
@@ -12879,19 +12714,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-200_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-200_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-200_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-300_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-300_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-300_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-300_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-400_dseg.label.gii",
@@ -12899,19 +12724,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-400_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-400_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-400_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-500_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-500_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-500_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-500_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-600_dseg.label.gii",
@@ -12919,19 +12734,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-600_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-600_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-600_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-700_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-700_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-700_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-700_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-800_dseg.label.gii",
@@ -12939,19 +12744,9 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-800_dseg.label.gii"
       },
       {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-800_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-800_dseg.tsv"
-      },
-      {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-900_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-900_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-900_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-Schaefer2018_seg-kong17n_scale-900_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-Yeo2011_seg-17n_dseg.label.gii",
@@ -12967,11 +12762,6 @@
         "text": "tpl-fsaverage_hemi-R_den-164k_atlas-brainnetome_dseg.label.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_atlas-brainnetome_dseg.label.gii"
-      },
-      {
-        "text": "tpl-fsaverage_hemi-R_den-164k_atlas-brainnetome_dseg.tsv",
-        "icon": "fas fa-table",
-        "href": "https://raw.githubusercontent.com/templateflow/tpl-fsaverage/master/tpl-fsaverage_hemi-R_den-164k_atlas-brainnetome_dseg.tsv"
       },
       {
         "text": "tpl-fsaverage_hemi-R_den-164k_curv.shape.gii",
