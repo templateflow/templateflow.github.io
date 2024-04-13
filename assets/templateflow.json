@@ -7959,6 +7959,117 @@
     ]
   },
   {
+    "text": "tpl-SUIT",
+    "icon": "fa fa-folder",
+    "nodes": [
+      {
+        "text": "CHANGES",
+        "icon": "fas fa-clipboard-list",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-SUIT/master/CHANGES"
+      },
+      {
+        "text": "LICENSE",
+        "icon": "fab fa-creative-commons-share",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-SUIT/master/LICENSE"
+      },
+      {
+        "text": "README.md",
+        "icon": "fa fa-file",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-SUIT/master/README.md"
+      },
+      {
+        "text": "template_description.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-SUIT/master/template_description.json"
+      },
+      {
+        "text": "tpl-SUIT_T1w.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_T1w.nii.gz"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Buckner2011_dseg.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-SUIT/master/tpl-SUIT_atlas-Buckner2011_dseg.json"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Buckner2011_seg-17n_dseg.label.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_atlas-Buckner2011_seg-17n_dseg.label.gii"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Buckner2011_seg-17n_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_atlas-Buckner2011_seg-17n_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Buckner2011_seg-17n_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-SUIT/master/tpl-SUIT_atlas-Buckner2011_seg-17n_dseg.tsv"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Buckner2011_seg-17n_stat-confidence_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_atlas-Buckner2011_seg-17n_stat-confidence_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Buckner2011_seg-7n_dseg.label.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_atlas-Buckner2011_seg-7n_dseg.label.gii"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Buckner2011_seg-7n_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_atlas-Buckner2011_seg-7n_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Buckner2011_seg-7n_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-SUIT/master/tpl-SUIT_atlas-Buckner2011_seg-7n_dseg.tsv"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Buckner2011_seg-7n_stat-confidence_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_atlas-Buckner2011_seg-7n_stat-confidence_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Diedrichsen2009_dseg.json",
+        "icon": "fas fa-file-alt",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-SUIT/master/tpl-SUIT_atlas-Diedrichsen2009_dseg.json"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Diedrichsen2009_dseg.label.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_atlas-Diedrichsen2009_dseg.label.gii"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Diedrichsen2009_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_atlas-Diedrichsen2009_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Diedrichsen2009_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-SUIT/master/tpl-SUIT_atlas-Diedrichsen2009_dseg.tsv"
+      },
+      {
+        "text": "tpl-SUIT_atlas-Diedrichsen2009_probseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_atlas-Diedrichsen2009_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-SUIT_flat.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_flat.surf.gii"
+      },
+      {
+        "text": "tpl-SUIT_sulc.shape.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-SUIT/tpl-SUIT_sulc.shape.gii"
+      }
+    ]
+  },
+  {
     "text": "tpl-UNCInfant",
     "icon": "fa fa-folder",
     "nodes": [
