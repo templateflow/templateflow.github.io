@@ -13089,6 +13089,26 @@
         "text": "tpl-onavg_hemi-R_den-655k_sphere.surf.gii",
         "icon": "fas fa-draw-polygon",
         "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_hemi-R_den-655k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_space-fsLR_hemi-L_den-10k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_space-fsLR_hemi-L_den-10k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_space-fsLR_hemi-L_den-41k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_space-fsLR_hemi-L_den-41k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_space-fsLR_hemi-R_den-10k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_space-fsLR_hemi-R_den-10k_sphere.surf.gii"
+      },
+      {
+        "text": "tpl-onavg_space-fsLR_hemi-R_den-41k_sphere.surf.gii",
+        "icon": "fas fa-draw-polygon",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-onavg/tpl-onavg_space-fsLR_hemi-R_den-41k_sphere.surf.gii"
       }
     ]
   }
