@@ -777,6 +777,16 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_label-brain_probseg.nii.gz"
       },
       {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_seg-aseg_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_seg-aseg_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-01_seg-aseg_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_seg-aseg_probseg.nii.gz"
+      },
+      {
         "text": "tpl-MNI152NLin2009cAsym_res-02_PD.nii.gz",
         "icon": "fas fa-brain",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_PD.nii.gz"
@@ -1002,6 +1012,16 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_label-WM_probseg.nii.gz"
       },
       {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_seg-aseg_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_seg-aseg_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-02_seg-aseg_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_seg-aseg_probseg.nii.gz"
+      },
+      {
         "text": "tpl-MNI152NLin2009cAsym_res-03_atlas-DiFuMo_desc-1024dimensions_probseg.nii.gz",
         "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-03_atlas-DiFuMo_desc-1024dimensions_probseg.nii.gz"
@@ -1025,6 +1045,26 @@
         "text": "tpl-MNI152NLin2009cAsym_res-03_atlas-DiFuMo_desc-64dimensions_probseg.nii.gz",
         "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-03_atlas-DiFuMo_desc-64dimensions_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-03_seg-aseg_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-03_seg-aseg_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-03_seg-aseg_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-03_seg-aseg_probseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-04_seg-aseg_dseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-04_seg-aseg_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin2009cAsym_res-04_seg-aseg_probseg.nii.gz",
+        "icon": "fas fa-brain",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-04_seg-aseg_probseg.nii.gz"
       }
     ]
   },
