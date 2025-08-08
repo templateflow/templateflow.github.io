@@ -1945,6 +1945,11 @@
         "icon": "fas fa-users",
         "nodes": [
           {
+            "text": "tpl-MNIInfant_cohort-1_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_from-MNI152NLin6Asym_xfm.h5"
+          },
+          {
             "text": "tpl-MNIInfant_cohort-1_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_res-1_PD.nii.gz"
@@ -1990,6 +1995,11 @@
         "text": "cohort-10",
         "icon": "fas fa-users",
         "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-10_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_from-MNI152NLin6Asym_xfm.h5"
+          },
           {
             "text": "tpl-MNIInfant_cohort-10_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
@@ -2037,6 +2047,11 @@
         "icon": "fas fa-users",
         "nodes": [
           {
+            "text": "tpl-MNIInfant_cohort-11_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_from-MNI152NLin6Asym_xfm.h5"
+          },
+          {
             "text": "tpl-MNIInfant_cohort-11_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_res-1_PD.nii.gz"
@@ -2082,6 +2097,11 @@
         "text": "cohort-2",
         "icon": "fas fa-users",
         "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-2_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_from-MNI152NLin6Asym_xfm.h5"
+          },
           {
             "text": "tpl-MNIInfant_cohort-2_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
@@ -2129,6 +2149,11 @@
         "icon": "fas fa-users",
         "nodes": [
           {
+            "text": "tpl-MNIInfant_cohort-3_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_from-MNI152NLin6Asym_xfm.h5"
+          },
+          {
             "text": "tpl-MNIInfant_cohort-3_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_res-1_PD.nii.gz"
@@ -2174,6 +2199,11 @@
         "text": "cohort-4",
         "icon": "fas fa-users",
         "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-4_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_from-MNI152NLin6Asym_xfm.h5"
+          },
           {
             "text": "tpl-MNIInfant_cohort-4_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
@@ -2221,6 +2251,11 @@
         "icon": "fas fa-users",
         "nodes": [
           {
+            "text": "tpl-MNIInfant_cohort-5_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_from-MNI152NLin6Asym_xfm.h5"
+          },
+          {
             "text": "tpl-MNIInfant_cohort-5_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_res-1_PD.nii.gz"
@@ -2266,6 +2301,11 @@
         "text": "cohort-6",
         "icon": "fas fa-users",
         "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-6_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_from-MNI152NLin6Asym_xfm.h5"
+          },
           {
             "text": "tpl-MNIInfant_cohort-6_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
@@ -2313,6 +2353,11 @@
         "icon": "fas fa-users",
         "nodes": [
           {
+            "text": "tpl-MNIInfant_cohort-7_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_from-MNI152NLin6Asym_xfm.h5"
+          },
+          {
             "text": "tpl-MNIInfant_cohort-7_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_res-1_PD.nii.gz"
@@ -2358,6 +2403,11 @@
         "text": "cohort-8",
         "icon": "fas fa-users",
         "nodes": [
+          {
+            "text": "tpl-MNIInfant_cohort-8_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_from-MNI152NLin6Asym_xfm.h5"
+          },
           {
             "text": "tpl-MNIInfant_cohort-8_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
@@ -2405,6 +2455,11 @@
         "icon": "fas fa-users",
         "nodes": [
           {
+            "text": "tpl-MNIInfant_cohort-9_from-MNI152NLin6Asym_xfm.h5",
+            "icon": "fas fa-route",
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_from-MNI152NLin6Asym_xfm.h5"
+          },
+          {
             "text": "tpl-MNIInfant_cohort-9_res-1_PD.nii.gz",
             "icon": "fas fa-brain",
             "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_res-1_PD.nii.gz"
@@ -2450,6 +2505,11 @@
         "text": "scripts",
         "icon": "fa fa-folder",
         "nodes": [
+          {
+            "text": "mni152nlin6asym-to-mniinfant.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNIInfant/master/scripts/mni152nlin6asym-to-mniinfant.py"
+          },
           {
             "text": "sanitize.py",
             "icon": "fab fa-python",
