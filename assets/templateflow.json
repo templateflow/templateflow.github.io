@@ -1164,6 +1164,11 @@
         "icon": "fa fa-folder",
         "nodes": [
           {
+            "text": "mniinfant-to-mni152nlin6asym.py",
+            "icon": "fab fa-python",
+            "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/scripts/mniinfant-to-mni152nlin6asym.py"
+          },
+          {
             "text": "sanitize.py",
             "icon": "fab fa-python",
             "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/scripts/sanitize.py"
@@ -1309,6 +1314,61 @@
         "text": "tpl-MNI152NLin6Asym_from-MNI152NLin2009cAsym_mode-image_xfm.mat",
         "icon": "fas fa-route",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNI152NLin2009cAsym_mode-image_xfm.mat"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+10_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+10_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+11_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+11_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+1_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+1_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+2_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+2_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+3_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+3_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+4_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+4_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+5_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+5_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+6_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+6_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+7_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+7_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+8_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+8_xfm.h5"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_from-MNIInfant+9_xfm.h5",
+        "icon": "fas fa-route",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_from-MNIInfant+9_xfm.h5"
       },
       {
         "text": "tpl-MNI152NLin6Asym_res-01_T1w.nii.gz",
