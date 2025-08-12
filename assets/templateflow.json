@@ -1945,9 +1945,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-1_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-1_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-1/tpl-MNIInfant_cohort-1_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-1_res-1_PD.nii.gz",
@@ -1996,9 +1996,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-10_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-10_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-10/tpl-MNIInfant_cohort-10_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-10_res-1_PD.nii.gz",
@@ -2047,9 +2047,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-11_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-11_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-11/tpl-MNIInfant_cohort-11_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-11_res-1_PD.nii.gz",
@@ -2098,9 +2098,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-2_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-2_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-2/tpl-MNIInfant_cohort-2_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-2_res-1_PD.nii.gz",
@@ -2149,9 +2149,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-3_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-3_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-3/tpl-MNIInfant_cohort-3_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-3_res-1_PD.nii.gz",
@@ -2200,9 +2200,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-4_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-4_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-4/tpl-MNIInfant_cohort-4_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-4_res-1_PD.nii.gz",
@@ -2251,9 +2251,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-5_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-5_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-5/tpl-MNIInfant_cohort-5_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-5_res-1_PD.nii.gz",
@@ -2302,9 +2302,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-6_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-6_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-6/tpl-MNIInfant_cohort-6_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-6_res-1_PD.nii.gz",
@@ -2353,9 +2353,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-7_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-7_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-7/tpl-MNIInfant_cohort-7_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-7_res-1_PD.nii.gz",
@@ -2404,9 +2404,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-8_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-8_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-8/tpl-MNIInfant_cohort-8_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-8_res-1_PD.nii.gz",
@@ -2455,9 +2455,9 @@
         "icon": "fas fa-users",
         "nodes": [
           {
-            "text": "tpl-MNIInfant_cohort-9_from-MNI152NLin6Asym_xfm.h5",
+            "text": "tpl-MNIInfant_cohort-9_from-MNI152NLin6Asym_mode-image_xfm.h5",
             "icon": "fas fa-route",
-            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_from-MNI152NLin6Asym_xfm.h5"
+            "href": "https://templateflow.s3.amazonaws.com/tpl-MNIInfant/cohort-9/tpl-MNIInfant_cohort-9_from-MNI152NLin6Asym_mode-image_xfm.h5"
           },
           {
             "text": "tpl-MNIInfant_cohort-9_res-1_PD.nii.gz",
