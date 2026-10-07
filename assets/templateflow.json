@@ -1386,6 +1386,26 @@
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_T1w.nii.gz"
       },
       {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Buckner2011_seg-17n_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Buckner2011_seg-17n_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Buckner2011_seg-17n_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_res-01_atlas-Buckner2011_seg-17n_dseg.tsv"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Buckner2011_seg-7n_dseg.nii.gz",
+        "icon": "fas fa-globe",
+        "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-Buckner2011_seg-7n_dseg.nii.gz"
+      },
+      {
+        "text": "tpl-MNI152NLin6Asym_res-01_atlas-Buckner2011_seg-7n_dseg.tsv",
+        "icon": "fas fa-table",
+        "href": "https://raw.githubusercontent.com/templateflow/tpl-MNI152NLin6Asym/master/tpl-MNI152NLin6Asym_res-01_atlas-Buckner2011_seg-7n_dseg.tsv"
+      },
+      {
         "text": "tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th0_dseg.nii.gz",
         "icon": "fas fa-globe",
         "href": "https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-01_atlas-HOCPAL_desc-th0_dseg.nii.gz"
